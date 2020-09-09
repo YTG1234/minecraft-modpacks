@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3034/907/resource-loader-%5Bfabric%5D-1.1.1.jar"
-hash-format = "murmur2"
-hash = "208474276"
+hash-format = "sha256"
+hash = "f3b27506c8df1dcca8797e8d4fc09db98eebfd175fc9cf6d65b7c875f3ba1d8e"
 
 [update]
 [update.curseforge]

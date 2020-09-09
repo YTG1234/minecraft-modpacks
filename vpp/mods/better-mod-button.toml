@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3029/9/%5B1.16.2%5Dbettermodbutton-1.1.4.jar"
-hash-format = "murmur2"
-hash = "592165454"
+hash-format = "sha256"
+hash = "9ce1cbb4a976523c797228907e609095dc403c5a6ad4881e35478667e548f360"
 
 [update]
 [update.curseforge]
