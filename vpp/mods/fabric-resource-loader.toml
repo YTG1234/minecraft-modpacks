@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-description = "Use modpack custom resources"
+description = "Use modpack custom resources. Strongly recommended you turn this on."
 default = true
 
 [download]

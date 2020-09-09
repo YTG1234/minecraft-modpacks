@@ -1,6 +1,6 @@
 name = "MyBrightness"
 filename = "MyBrightness-1.16pre2-08.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2973/944/MyBrightness-1.16pre2-08.jar"

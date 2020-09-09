@@ -1,6 +1,6 @@
 name = "Not Enough Crashes"
 filename = "notenoughcrashes-2.1.4+1.16.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3038/498/notenoughcrashes-2.1.4+1.16.2.jar"

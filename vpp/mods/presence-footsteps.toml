@@ -1,6 +1,6 @@
 name = "Presence Footsteps"
 filename = "PresenceFootsteps-r28+1.16.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3042/936/PresenceFootsteps-r28+1.16.2.jar"

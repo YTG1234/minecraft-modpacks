@@ -610,7 +610,7 @@ hash = "c0c881f7b413bc9aae9cdbb261bb3802b0d2728a1f9cd837a46b8a70be9f5720"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "c475e185795900f2224e527f17d83af931f8a41003f8bf46db63b10d5134bf3f"
+hash = "d7ec509d7ea7c2fa4b36f2c8a5c646d2a9a00a7f128bfc7104f02398dffed7b4"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ hash = "2fd4cd7dabf2c80d9fe8caad04a503ab24f69d699bec336967b5d1beed8c8c13"
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4ee7152601ae33cd740f1b8594b1df204b5bd9df74c2196de358c431d15f5d1d"
+hash = "e121984fc01cd0ad978104c202270fd394493349bca80f8c82adc123bad85e34"
 metafile = true
 
 [[files]]
@@ -704,12 +704,12 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "cae5d89a4bcecfdcac081d833071836e9af882ee5e8a714eccf5932036c74d5f"
+hash = "177a670a51be67bd68cecae9f976076bbbd2bec18f4a135bfe23f45afb73eba4"
 metafile = true
 
 [[files]]
 file = "mods/connected-block-textures.toml"
-hash = "4e2e3926d135436d9e4e9247e592b36f2555d03dcbcfc522b00f647ce5e9e93d"
+hash = "287cc51c0c19bc53cff7fea92862c5597295e51e8f5836e465211878f3a99c6e"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-resource-loader.toml"
-hash = "db08007e83fd1f3ff07185be3547742ac4ff32ab6494798f2f4878f55e777abe"
+hash = "ffdc525958460a5bb77e874a8a3b63bd67ec41f983e27a98d3e6a4e3d525fb92"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ hash = "8198cf3781d3d82abfbcf3b54284d5a2cc1767d94ce410b5203005518681f58a"
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
+hash = "2e500796903c3c8120173ed96576fee51e45640757ad86742e95d606b2adc9f8"
 metafile = true
 
 [[files]]
@@ -863,17 +863,17 @@ metafile = true
 
 [[files]]
 file = "mods/mybrightness.toml"
-hash = "5a1b0341f77c4371c614a8d47a73d2d216e49a05f3693981999289e73ed23f59"
+hash = "fb402220767b93aae2b1764fb532d47b02faac4a3e987e0ad56bcc847b861fb0"
 metafile = true
 
 [[files]]
 file = "mods/nbt-tooltip.toml"
-hash = "abc0fedd36b7179252bbfc0a0928810dbc3162c2d107731c2ff27524b58f2777"
+hash = "0bcba9283aa195ecd9be2f2eba5b2219893c275084d8ffb88022b9e59f32098b"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "ad58c35fa4f8fc2822326b7f44635bc75c6f6287bc831825f01f9f6124335b71"
+hash = "7c4a2aad8d277df9d273758ae6797971d83e021c1dc7be75abd7ee4980a7f22b"
 metafile = true
 
 [[files]]
@@ -893,12 +893,12 @@ metafile = true
 
 [[files]]
 file = "mods/pling.toml"
-hash = "71f8ace491a1b476d16802ccebc8e0399b1c892d9a33ff80deb549444d8e6f30"
+hash = "bd0751c3b8e20782de25a0f46b3d2b113e2a1a027c11cc9cb57bedf97c35c5b2"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "442c89f8c5027bbfe31b964422092142b064c2cc453996d835c73eff56118e4d"
+hash = "427e3a515db1721f7074587f1a45d693d05680c8c3753b45b24650e7b2390a8e"
 metafile = true
 
 [[files]]
@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "d3eb6bec45cd93273f4c8312d303591eb350f085f7cda6005fec86a9942bb176"
+hash = "7b053a80a01ad9140f6d861a7ba55ea21b6b90671ac1655e1cf10aef10b06556"
 metafile = true
 
 [[files]]
@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
-hash = "a42c67c3e0f2873f53b982bb37daff177d3973f22aaa7063c46512658ed1f94e"
+hash = "640a6b47c3a36ea17e8509fb0cd0448797466bdcf2535ea23db813cf09faff04"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ hash = "aee9cb70aa1e5ffcc174a70ea153cffded9ab7a1bd849e18d947accdd5ae9150"
 
 [[files]]
 file = "mods/wi-zoom.toml"
-hash = "d9754fa769c47a07395afc556a6754818ab7179b64d75a50a0d37f2fb4554afc"
+hash = "04c4a7e7eec4e28b5294ea47c34d1b2382f3db3079f4d1fa2338bbdfe65d07ee"
 metafile = true
 
 [[files]]

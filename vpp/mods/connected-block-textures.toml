@@ -1,6 +1,11 @@
 name = "Connected Block Textures"
 filename = "connected-block-textures-0.1.2+1.16.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+description = "Use CTM, similar to Optifine. At the time of writing, it crashes."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3026/24/connected-block-textures-0.1.2+1.16.jar"
