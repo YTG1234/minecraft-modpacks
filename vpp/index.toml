@@ -659,6 +659,11 @@ hash = "3b4cdc6c4e47e6a9dbe6f269cd63260c55758e7f1be2b6dc5f17d8f36ebed1ce"
 metafile = true
 
 [[files]]
+file = "mods/caelus-fabric.toml"
+hash = "b9b1a2c6133c473b524ddd2fba4f282032b27e44c84baf9dacffbcc294b5ef04"
+metafile = true
+
+[[files]]
 file = "mods/can-i-mine-this-block.toml"
 hash = "ef35d0a6331d1833b7298146f6b310eca77db90e29b3e047ee39244a8ec309ee"
 metafile = true
@@ -705,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/colormatic.toml"
 hash = "177a670a51be67bd68cecae9f976076bbbd2bec18f4a135bfe23f45afb73eba4"
+metafile = true
+
+[[files]]
+file = "mods/colytra-fabric.toml"
+hash = "42e55280a09a03259d152e5285d58de326cb73dc772f377e96935848adf296c3"
 metafile = true
 
 [[files]]
@@ -2324,3 +2334,7 @@ hash = "0d4a5fbe903857d056aa0d1a7a7e7cbbea27ac8ff1f39005d53a475287121054"
 [[files]]
 file = "resources/pack.png"
 hash = "f5ab6b7fcca5ab63725c57d067a0639f5ab667208203e63ae7ddf699475bd8c1"
+
+[[files]]
+file = "servers.dat"
+hash = "d481f97dce0531285e9fd4ecfb66f46fbab9bc3924de9501d87e06857100c197"
