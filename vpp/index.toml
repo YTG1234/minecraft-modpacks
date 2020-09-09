@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mod-button.toml"
-hash = "d661adcbe6d563d4fc3fa3019e43df92b2bc93c7779ee24389a6df1ca7441fb3"
+hash = "169ac86d5991de8f8580a3b5bf01bf999e5d7e1d83cedc9157c0f24b4f798a8d"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-resource-loader.toml"
-hash = "e3149171c90439991882e4cb899295a8f517ce1835b6b22334b3122fedfe9d8f"
+hash = "db08007e83fd1f3ff07185be3547742ac4ff32ab6494798f2f4878f55e777abe"
 metafile = true
 
 [[files]]
