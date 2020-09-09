@@ -907,8 +907,8 @@ hash = "c777f52e3236298d67829b41802d6b83c67d932386bdb0cd25360b9058a21587"
 metafile = true
 
 [[files]]
-file = "mods/replaymod-1.16.2-2.4.3.jar"
-hash = "b4802eacb750104abb6cfed62df663dc99918fe2ef996e51f78f2b9b6e9ea14c"
+file = "mods/replaymod-1.16.2-2.4.4.jar"
+hash = "82e41af6810fc1b358c8ec68ec56f53133f3f5e1863a3c1335d89813e7d38b4c"
 
 [[files]]
 file = "mods/rgbable.toml"
