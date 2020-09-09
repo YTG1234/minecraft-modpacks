@@ -1,0 +1,38 @@
+{ 
+	"common": { 
+		"compostablePoisonousPotatoes": true,
+		"compostableDirt": true,
+		"compostableGrass": true,
+		"shovelGrinding": true,
+		"explosiveFuel": true,
+		"fieryFuel": true,
+		"lavaSand": false,
+		"sheepColorWeights": { 
+			"enabled": true,
+			"white": 6.25,
+			"black": 6.25,
+			"magenta": 6.25,
+			"lightBlue": 6.25,
+			"yellow": 6.25,
+			"lime": 6.25,
+			"pink": 6.25,
+			"gray": 6.25,
+			"cyan": 6.25,
+			"purple": 6.25,
+			"blue": 6.25,
+			"green": 6.25,
+			"red": 6.25,
+			"orange": 6.25,
+			"brown": 6.25
+		},
+		"bonemeal": { 
+			"enable": true,
+			"cactiChance": 19,
+			"sugarCaneChance": 30
+		}
+	},
+	"client": { 
+		"potionGlint": true,
+		"optimizedBamboo": true
+	}
+}

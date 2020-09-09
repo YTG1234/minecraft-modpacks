@@ -1,0 +1,14 @@
+name = "Allure"
+filename = "Allure-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3041/50/Allure-1.2.6.jar"
+hash-format = "murmur2"
+hash = "195382678"
+
+[update]
+[update.curseforge]
+file-id = 3041050
+project-id = 336361
+release-channel = "beta"

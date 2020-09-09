@@ -1,0 +1,14 @@
+{
+  "showInfoTooltips": true,
+  "infoTooltipKeyBind": "SHIFT",
+  "slowEatingLargeSandwiches": true,
+  "baseSandwichEatTime": 32,
+  "saltySandGenOptions": {
+    "rarity": 18,
+    "veinSize": 5,
+    "maxGenHeight": 128
+  },
+  "shrubGenOptions": {
+    "spawnTries": 10
+  }
+}

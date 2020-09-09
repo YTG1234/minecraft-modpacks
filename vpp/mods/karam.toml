@@ -1,0 +1,14 @@
+name = "Karam"
+filename = "karam-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3045/871/karam-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3679005764"
+
+[update]
+[update.curseforge]
+file-id = 3045871
+project-id = 404325
+release-channel = "beta"

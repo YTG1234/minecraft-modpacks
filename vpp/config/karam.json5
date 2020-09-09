@@ -1,0 +1,12 @@
+{ 
+	// Destroy item instead of leaving it on the ground when using the /dev/null item
+	"destroyItemDevNull": false,
+	// Max distance between elevators
+	"maxBlocksBetweenElevator": 20,
+	// Max solid blocks between elevators
+	"maxSolidBlocksBetweenElevator": 4,
+	// Ignore elevator obstructions
+	"ignoreObstructedElevator": true,
+	// Deactivate elevator when powered
+	"deactivateElevatorOnRedstonePower": true
+}

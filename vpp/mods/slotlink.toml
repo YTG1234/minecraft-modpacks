@@ -1,0 +1,14 @@
+name = "slotlink"
+filename = "slotlink-1.2+minecraft-1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3047/177/slotlink-1.2+minecraft-1.16.2.jar"
+hash-format = "murmur2"
+hash = "2701162787"
+
+[update]
+[update.curseforge]
+file-id = 3047177
+project-id = 391014
+release-channel = "beta"

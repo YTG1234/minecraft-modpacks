@@ -1,0 +1,14 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.10.3_Fabric_1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3048/346/XaerosWorldMap_1.10.3_Fabric_1.16.2.jar"
+hash-format = "murmur2"
+hash = "3211658901"
+
+# [update]
+# [update.curseforge]
+# file-id = 3048346
+# project-id = 317780
+# release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Rings of Ascension (Fabric)"
+filename = "RingsOfAscension-1.16.2-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3044/984/RingsOfAscension-1.16.2-1.0.7.jar"
+hash-format = "murmur2"
+hash = "2256080715"
+
+[update]
+[update.curseforge]
+file-id = 3044984
+project-id = 388793
+release-channel = "beta"

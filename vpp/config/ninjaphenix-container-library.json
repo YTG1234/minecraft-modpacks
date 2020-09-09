@@ -1,0 +1,14 @@
+{
+	/* 
+	   Prefered container type, set to expandedstorage:auto to reuse selection screen.
+	*/
+	"preferred_container_type": "expandedstorage:paged",
+	/* 
+	   Only allows scrolling in scrollable screen whilst hovering over the scrollbar region.
+	*/
+	"restrictive_scrolling": false,
+	/* 
+	   If true centers the settings cog to the scrollbar in scrollable screens.
+	*/
+	"settings_button_center_on_scrollbar": true
+}

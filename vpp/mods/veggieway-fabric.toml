@@ -1,0 +1,14 @@
+name = "The Veggie Way [FABRIC]"
+filename = "TheVeggieWay_Fabric_1.16.2-1.0.29.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3031/136/TheVeggieWay_Fabric_1.16.2-1.0.29.jar"
+hash-format = "murmur2"
+hash = "3280797225"
+
+[update]
+[update.curseforge]
+file-id = 3031136
+project-id = 380345
+release-channel = "beta"

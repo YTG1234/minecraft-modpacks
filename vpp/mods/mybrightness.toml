@@ -1,0 +1,14 @@
+name = "MyBrightness"
+filename = "MyBrightness-1.16pre2-08.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2973/944/MyBrightness-1.16pre2-08.jar"
+hash-format = "murmur2"
+hash = "2626994387"
+
+[update]
+[update.curseforge]
+file-id = 2973944
+project-id = 323073
+release-channel = "beta"

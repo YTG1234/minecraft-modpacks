@@ -1,0 +1,14 @@
+name = "Bunch o' Trinkets"
+filename = "bunch-o-trinkets-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2988/10/bunch-o-trinkets-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2040449513"
+
+[update]
+[update.curseforge]
+file-id = 2988010
+project-id = 356165
+release-channel = "beta"

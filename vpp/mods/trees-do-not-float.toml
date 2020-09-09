@@ -1,0 +1,14 @@
+name = "Trees Do Not Float"
+filename = "tdnf-mc116-1.12.94.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3032/340/tdnf-mc116-1.12.94.jar"
+hash-format = "murmur2"
+hash = "3918792639"
+
+[update]
+[update.curseforge]
+file-id = 3032340
+project-id = 323354
+release-channel = "beta"

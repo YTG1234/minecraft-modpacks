@@ -1,0 +1,14 @@
+name = "LambdaControls"
+filename = "lambdacontrols-fabric-1.5.0+1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3047/242/lambdacontrols-fabric-1.5.0+1.16.2.jar"
+hash-format = "murmur2"
+hash = "1963400756"
+
+[update]
+[update.curseforge]
+file-id = 3047242
+project-id = 354231
+release-channel = "beta"

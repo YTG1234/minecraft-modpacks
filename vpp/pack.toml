@@ -1,0 +1,11 @@
+name = "The Vanilla+ Pack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "38af43a4bacfbaece4f0b0e502c70e11ca4c0faaa5e0b9b1c2e8e37f5a2d2167"
+
+[versions]
+fabric = "0.9.3+build.207"
+minecraft = "1.16.2"
+yarn = "1.16.2+build.47"

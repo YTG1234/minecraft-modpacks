@@ -1,0 +1,40 @@
+{
+	"features": {
+		/* Defines the cinematic camera while zooming.
+		   "OFF" disables the cinematic camera.
+		   "VANILLA" uses Vanilla's cinematic camera.
+		   "MULTIPLIED" is a multiplied variant of "VANILLA".
+		*/
+		"cinematic_camera": "VANILLA",
+		// Reduces the mouse sensitivity when zooming.
+		"reduce_sensitivity": false,
+		/* Adds transitions between zooms.
+		   "OFF" disables transitions.
+		   "SMOOTH" replicates Vanilla's dynamic FOV.
+		   "SINE" applies the transition with a sine function.
+		*/
+		"zoom_transition": "OFF",
+		/* The behavior of the zoom key.
+		   "HOLD" needs the zoom key to be hold.
+		   "TOGGLE" has the zoom key toggle the zoom.
+		   "PERSISTENT" makes the zoom permanent.
+		*/
+		"zoom_mode": "HOLD",
+		/* Allows to increase or decrease zoom by scrolling.
+		   The functionality might not be final.
+		*/
+		"zoom_scrolling": false
+	},
+	"values": {
+		// The divisor applied to the FOV when zooming.
+		"zoom_divisor": 4.0,
+		// The minimum value that you can scroll down.
+		"minimum_zoom_divisor": 1.0,
+		// The maximum value that you can scroll up.
+		"maximum_zoom_divisor": 50.0,
+		// The multiplier used for the multiplied cinematic camera.
+		"cinematic_multiplier": 4.0,
+		// The multiplier used for smooth transitions.
+		"smooth_multiplier": 0.75
+	}
+}

@@ -1,0 +1,14 @@
+name = "Infinity Fix (Fabric)"
+filename = "infinityfix-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2763/186/infinityfix-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2704338479"
+
+[update]
+[update.curseforge]
+file-id = 2763186
+project-id = 315804
+release-channel = "beta"

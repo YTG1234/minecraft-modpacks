@@ -1,0 +1,14 @@
+name = "LambDynamicLights"
+filename = "lambdynamiclights-fabric-1.3.0+1.16.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3033/337/lambdynamiclights-fabric-1.3.0+1.16.2.jar"
+hash-format = "murmur2"
+hash = "2200402384"
+
+[update]
+[update.curseforge]
+file-id = 3033337
+project-id = 393442
+release-channel = "beta"

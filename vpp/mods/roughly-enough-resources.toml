@@ -1,0 +1,14 @@
+name = "Roughly Enough Resources"
+filename = "rer-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3052/156/rer-2.1.1.jar"
+hash-format = "murmur2"
+hash = "1109979635"
+
+[update]
+[update.curseforge]
+file-id = 3052156
+project-id = 325625
+release-channel = "beta"

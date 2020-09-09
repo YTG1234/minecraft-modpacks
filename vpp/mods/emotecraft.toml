@@ -1,0 +1,14 @@
+name = "Emotecraft"
+filename = "emotecraft-for-MC1.16.2-0.12.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3030/616/emotecraft-for-MC1.16.2-0.12.3.jar"
+hash-format = "murmur2"
+hash = "528875903"
+
+[update]
+[update.curseforge]
+file-id = 3030616
+project-id = 397809
+release-channel = "beta"

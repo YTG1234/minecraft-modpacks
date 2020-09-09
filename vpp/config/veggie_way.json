@@ -1,0 +1,60 @@
+{
+  "raw_foods": {
+    "corn_hunger": 3,
+    "corn_saturation": 0.2,
+    "quinoa_hunger": 3,
+    "quinoa_saturation": 0.2,
+    "soybean_hunger": 3,
+    "soybean_saturation": 0.2,
+    "lentil_hunger": 3,
+    "lentil_saturation": 0.2
+  },
+  "chunks": {
+    "melon_chunk_hunger": 2,
+    "melon_chunk_saturation": 0.1,
+    "pumpkin_chunk_hunger": 2,
+    "pumpkin_chunk_saturation": 0.1,
+    "cactus_chunk_hunger": 2,
+    "cactus_chunk_saturation": 0.1
+  },
+  "pies": {
+    "apple_pie_hunger": 6,
+    "apple_pie_saturation": 0.2,
+    "melon_pie_hunger": 6,
+    "melon_pie_saturation": 0.2,
+    "berry_pie_hunger": 6,
+    "berry_pie_saturation": 0.2
+  },
+  "soups": {
+    "pumpkin_soup_hunger": 6,
+    "pumpkin_soup_saturation": 0.3,
+    "cactus_soup_hunger": 6,
+    "cactus_soup_saturation": 0.3,
+    "melon_soup_hunger": 6,
+    "melon_soup_saturation": 0.3,
+    "carrot_soup_hunger": 6,
+    "carrot_soup_saturation": 0.3
+  },
+  "super_foods": {
+    "super_petals_hunger": 6,
+    "super_petals_saturation": 0.8,
+    "energy_drink_hunger": 9,
+    "energy_drink_saturation": 0.2,
+    "shake_hunger": 10,
+    "shake_saturation": 0.3,
+    "smoothie_hunger": 10,
+    "smoothie_saturation": 0.3,
+    "energyBar_hunger": 10,
+    "energyBar_saturation": 0.4,
+    "superFoodBar_hunger": 12,
+    "superFoodBar_saturation": 0.8
+  },
+  "misc": {
+    "chocolate_bar_hunger": 4,
+    "chocolate_bar_saturation": 0.2,
+    "fried_egg_hunger": 3,
+    "fried_egg_saturation": 0.2,
+    "cooked_tofu_hunger": 4,
+    "cooked_tofu_saturation": 0.3
+  }
+}

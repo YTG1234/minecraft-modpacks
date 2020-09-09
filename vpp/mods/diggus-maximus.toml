@@ -1,0 +1,14 @@
+name = "Diggus Maximus"
+filename = "diggusmaximus-1.3.1-1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3033/631/diggusmaximus-1.3.1-1.16.jar"
+hash-format = "murmur2"
+hash = "198287892"
+
+[update]
+[update.curseforge]
+file-id = 3033631
+project-id = 341888
+release-channel = "beta"

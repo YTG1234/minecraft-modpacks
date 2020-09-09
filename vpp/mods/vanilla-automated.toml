@@ -1,0 +1,14 @@
+name = "Vanilla Automated"
+filename = "vanillautomated-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3048/857/vanillautomated-1.1.4.jar"
+hash-format = "murmur2"
+hash = "940087823"
+
+[update]
+[update.curseforge]
+file-id = 3048857
+project-id = 392830
+release-channel = "beta"

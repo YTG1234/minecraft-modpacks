@@ -1,0 +1,14 @@
+name = "AdvancementInfo"
+filename = "advancementinfo-1.16.2-fabric0.17.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3046/843/advancementinfo-1.16.2-fabric0.17.2-1.1.1.jar"
+hash-format = "murmur2"
+hash = "299324715"
+
+[update]
+[update.curseforge]
+file-id = 3046843
+project-id = 403815
+release-channel = "beta"

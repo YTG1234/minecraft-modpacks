@@ -1,0 +1,14 @@
+name = "Colorful Cut"
+filename = "colorfulcut-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3036/757/colorfulcut-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3792524250"
+
+[update]
+[update.curseforge]
+file-id = 3036757
+project-id = 403237
+release-channel = "beta"

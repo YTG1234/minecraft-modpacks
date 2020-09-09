@@ -1,0 +1,11 @@
+{ 
+	"breakerTime": 10,
+	"cobblestoneGeneratorTime": 60,
+	"crafterTime": 5,
+	"crusherTime": 100,
+	"farmerTime": 2350,
+	"bonemealedFarmerTime": 15,
+	"fisherTime": 140,
+	"mobFarmTime": 200,
+	"placerTime": 5
+}

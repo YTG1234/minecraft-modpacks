@@ -1,0 +1,14 @@
+name = "Colormatic"
+filename = "colormatic-2.2.6+mc.1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3046/17/colormatic-2.2.6+mc.1.16.2.jar"
+hash-format = "murmur2"
+hash = "3261421611"
+
+[update]
+[update.curseforge]
+file-id = 3046017
+project-id = 325092
+release-channel = "beta"

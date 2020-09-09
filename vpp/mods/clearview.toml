@@ -1,0 +1,14 @@
+name = "ClearView"
+filename = "clearview-2.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3004/863/clearview-2.1.jar"
+hash-format = "murmur2"
+hash = "3553499473"
+
+[update]
+[update.curseforge]
+file-id = 3004863
+project-id = 379020
+release-channel = "beta"

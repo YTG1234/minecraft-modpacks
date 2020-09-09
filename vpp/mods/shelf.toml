@@ -1,0 +1,14 @@
+name = "Shelf"
+filename = "shelf-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3041/184/shelf-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2043046405"
+
+[update]
+[update.curseforge]
+file-id = 3041184
+project-id = 404354
+release-channel = "beta"

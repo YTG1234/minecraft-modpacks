@@ -1,0 +1,14 @@
+name = "Better Mod Button"
+filename = "[1.16.2]bettermodbutton-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3029/9/[1.16.2]bettermodbutton-1.1.4.jar"
+hash-format = "murmur2"
+hash = "592165454"
+
+[update]
+[update.curseforge]
+file-id = 3029009
+project-id = 386293
+release-channel = "beta"

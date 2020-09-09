@@ -1,0 +1,14 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_20.20.3_Fabric_1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3048/336/Xaeros_Minimap_20.20.3_Fabric_1.16.2.jar"
+hash-format = "murmur2"
+hash = "1770949711"
+
+# [update]
+# [update.curseforge]
+# file-id = 3048336
+# project-id = 263420
+# release-channel = "beta"

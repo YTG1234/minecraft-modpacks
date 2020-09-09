@@ -1,0 +1,14 @@
+name = "Song Sounds"
+filename = "songsounds-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3040/688/songsounds-2.1.0.jar"
+hash-format = "murmur2"
+hash = "1177529385"
+
+[update]
+[update.curseforge]
+file-id = 3040688
+project-id = 404224
+release-channel = "beta"

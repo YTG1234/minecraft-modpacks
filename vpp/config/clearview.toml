@@ -1,0 +1,5 @@
+enable_blindness_fog = false
+enable_water_fog = false
+enable_lava_fog = false
+enable_sky_fog = false
+enable_terrain_fog = false

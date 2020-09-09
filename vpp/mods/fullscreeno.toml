@@ -1,0 +1,14 @@
+name = "fullscreeNO"
+filename = "fullscreeNO-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2922/767/fullscreeNO-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2634487010"
+
+[update]
+[update.curseforge]
+file-id = 2922767
+project-id = 373802
+release-channel = "beta"

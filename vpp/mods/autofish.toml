@@ -1,0 +1,14 @@
+name = "Autofish"
+filename = "Autofish-0.9.0-fabric-mc1.16.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3033/573/Autofish-0.9.0-fabric-mc1.16.2.jar"
+hash-format = "murmur2"
+hash = "837053320"
+
+# [update]
+# [update.curseforge]
+# file-id = 3033573
+# project-id = 319473
+# release-channel = "beta"

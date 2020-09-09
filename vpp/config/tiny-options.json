@@ -1,0 +1,22 @@
+{
+  "cloud_height": 100.0,
+  "better_grass": true,
+  "connected_textures": true,
+  "render_stars": true,
+  "render_weather": true,
+  "render_sky": true,
+  "render_fog": "off",
+  "texture_animation": true,
+  "item_rendering": "fancy",
+  "zoom_factor": 19.0,
+  "debug_text_opacity": 0.9568627451,
+  "debug_opacity": 0.5647058824,
+  "debug_graph": true,
+  "show_fps": false,
+  "show_tps": false,
+  "show_coords": false,
+  "show_velocity": false,
+  "creative_fire_overlay": false,
+  "screenshot_resolution": "4K",
+  "opengl_info": false
+}

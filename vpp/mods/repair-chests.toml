@@ -1,0 +1,14 @@
+name = "Repair Chests"
+filename = "RepairChests-1.16.2-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3052/690/RepairChests-1.16.2-1.4.jar"
+hash-format = "murmur2"
+hash = "4187718204"
+
+[update]
+[update.curseforge]
+file-id = 3052690
+project-id = 401644
+release-channel = "beta"
