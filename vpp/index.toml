@@ -609,16 +609,6 @@ file = "emotes/zombie.emote"
 hash = "c0c881f7b413bc9aae9cdbb261bb3802b0d2728a1f9cd837a46b8a70be9f5720"
 
 [[files]]
-file = "mods/._better-mod-button.toml"
-hash = "86bc45d1e73ed67f5a06fbdc7ac9bbbc8a2b84fc102fc615e336eb380847f284"
-metafile = true
-
-[[files]]
-file = "mods/._fabric-resource-loader.toml"
-hash = "d9c6efb053b03218a6e3eb6994edd668dbe09ca28fbe9d17a770a616cff24ab3"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.toml"
 hash = "c475e185795900f2224e527f17d83af931f8a41003f8bf46db63b10d5134bf3f"
 metafile = true
