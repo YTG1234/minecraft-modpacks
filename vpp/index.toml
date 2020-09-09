@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mod-button.toml"
-hash = "3094f043d4f51310187a1afaf47f70eab7fedfb44425e342c8eed8e32a9097b0"
+hash = "a971dec476d5d09e18b9031cdf28bf7f4eb1f5c0f85a5a80f6c645a9c832967c"
 metafile = true
 
 [[files]]
