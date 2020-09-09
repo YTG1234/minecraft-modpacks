@@ -1,6 +1,9 @@
 name = "Resource Loader Fabric"
 filename = "resource-loader-fabric-1.1.1.jar"
-side = "both"
+side = "client"
+
+[optional]
+optional = "true"
 
 [download]
 url = "https://edge.forgecdn.net/files/3034/907/resource-loader-%5Bfabric%5D-1.1.1.jar"
