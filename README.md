@@ -1,1 +1,5 @@
-# minecraft-modpacks
+# My Minecraft Modpacks
+
+Here are some [Minecraft](https://minecraft.net/) modpacks that I made!
+
+-   [Vanilla Plus Pack](./vpp)
