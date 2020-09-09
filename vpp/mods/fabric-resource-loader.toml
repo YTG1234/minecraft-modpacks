@@ -1,9 +1,9 @@
 name = "Resource Loader [Fabric]"
-filename = "resource-loader-[fabric]-1.1.1.jar"
+filename = "resource-loader-fabric-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3034/907/resource-loader-[fabric]-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3034/907/resource-loader-%5Bfabric%5D-1.1.1.jar"
 hash-format = "murmur2"
 hash = "208474276"
 

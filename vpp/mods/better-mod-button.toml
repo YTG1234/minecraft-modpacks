@@ -1,9 +1,9 @@
 name = "Better Mod Button"
-filename = "[1.16.2]bettermodbutton-1.1.4.jar"
+filename = "1.16.2-bettermodbutton-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3029/9/[1.16.2]bettermodbutton-1.1.4.jar"
+url = "https://edge.forgecdn.net/files/3029/9/%5B1.16.2%5Dbettermodbutton-1.1.4.jar"
 hash-format = "murmur2"
 hash = "592165454"
 
