@@ -2,6 +2,11 @@ name = "Xaero's Minimap"
 filename = "Xaeros_Minimap_20.20.3_Fabric_1.16.2.jar"
 side = "both"
 
+[option]
+optional = true
+description = "A minimap mod."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3048/336/Xaeros_Minimap_20.20.3_Fabric_1.16.2.jar"
 hash-format = "murmur2"

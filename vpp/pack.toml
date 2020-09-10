@@ -3,9 +3,9 @@ name = "Yet Another Vanilla+ Pack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "58f6cb41352cf1e073d2d8d95d4a16585dd33ee4f47ed58fa5ed80516a0ce8b0"
+hash = "7e62c66fc2d562cb225a65c822975ad87b0f44c2c7fe56792aaa53790662ec4a"
 
 [versions]
 fabric = "0.9.3+build.207"
-minecraft = "1.16.3"
-yarn = "1.16.3+build.1"
+minecraft = "1.16.2"
+yarn = "1.16.2+build.47"

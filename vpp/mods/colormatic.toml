@@ -2,6 +2,11 @@ name = "Colormatic"
 filename = "colormatic-2.2.6+mc.1.16.2.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Use colormatic, a mod which adds support for the Optifine custom-color resource packs."
+default = false
+
 [download]
 url = "https://edge.forgecdn.net/files/3046/17/colormatic-2.2.6+mc.1.16.2.jar"
 hash-format = "murmur2"

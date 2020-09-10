@@ -2,6 +2,11 @@ name = "Canvas Renderer"
 filename = "canvas-mc116-1.0.933.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Use Canvas Renderer, a shaders mod which optimizes the client side of Minecraft a little bit."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3051/844/canvas-mc116-1.0.933.jar"
 hash-format = "murmur2"

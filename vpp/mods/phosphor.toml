@@ -2,6 +2,11 @@ name = "Phosphor (Fabric)"
 filename = "phosphor-fabric-mc1.16.1-0.6.0+build.7.jar"
 side = "both"
 
+[option]
+optional = true
+description = "Use Phosphor, a mod which optimizes the Minecraft lighting engine."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/2987/621/phosphor-fabric-mc1.16.1-0.6.0+build.7.jar"
 hash-format = "murmur2"

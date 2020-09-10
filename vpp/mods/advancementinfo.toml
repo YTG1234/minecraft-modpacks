@@ -2,6 +2,11 @@ name = "AdvancementInfo"
 filename = "advancementinfo-1.16.2-fabric0.17.2-1.1.1.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Use AdvancementInfo, a mod that shows you your progress on a specific advancement."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3046/843/advancementinfo-1.16.2-fabric0.17.2-1.1.1.jar"
 hash-format = "murmur2"

@@ -2,6 +2,11 @@ name = "ClearView"
 filename = "clearview-2.1.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Use ClearView, a mod that allows you to obliviate fog."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3004/863/clearview-2.1.jar"
 hash-format = "murmur2"

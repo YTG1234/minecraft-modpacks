@@ -2,6 +2,11 @@ name = "CraftPresence"
 filename = "CraftPresence-1.16.2-1.6.8.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Use CraftPresence, a mod that shows your Minecraft status in Discord."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3031/743/CraftPresence-1.16.2-1.6.8.jar"
 hash-format = "murmur2"

@@ -2,6 +2,11 @@ name = "Lithium (Fabric)"
 filename = "lithium-fabric-mc1.16.2-0.5.4.jar"
 side = "both"
 
+[option]
+optional = true
+description = "Use Lithium, a mod which optimizes the server logic side of Minecraft. Strongly Recommended"
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3046/951/lithium-fabric-mc1.16.2-0.5.4.jar"
 hash-format = "murmur2"

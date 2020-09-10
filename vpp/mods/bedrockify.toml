@@ -2,6 +2,11 @@ name = "BedrockIfy"
 filename = "bedrockify-0.1.2-1.16.2.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Use Bedrockify, a mod which brings certain Bedrock Edition features to the Java version."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3042/651/bedrockify-0.1.2-1.16.2.jar"
 hash-format = "murmur2"

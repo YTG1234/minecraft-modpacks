@@ -2,6 +2,11 @@ name = "Pling"
 filename = "pling-1.2.0.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Makes your Minecraft pling when it's finished loading."
+default = true
+
 [download]
 url = "https://edge.forgecdn.net/files/3036/795/pling-1.2.0.jar"
 hash-format = "murmur2"
