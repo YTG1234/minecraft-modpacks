@@ -694,8 +694,9 @@ hash = "53d98cfd64746e78d23db9dc1343b6dec20d332c24d1b19c3f8c8b8461f00a3f"
 metafile = true
 
 [[files]]
-file = "mods/clientcommands-2.4.7.jar"
-hash = "2fd4cd7dabf2c80d9fe8caad04a503ab24f69d699bec336967b5d1beed8c8c13"
+file = "mods/clientcommands.toml"
+hash = "d288588a91792293c13beb037b33e89adbd041b3717a8805ad5154b5d7321379"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
@@ -723,8 +724,9 @@ hash = "287cc51c0c19bc53cff7fea92862c5597295e51e8f5836e465211878f3a99c6e"
 metafile = true
 
 [[files]]
-file = "mods/cotton-client-commands-1.0.1+1.16-rc1.jar"
-hash = "56d3c908ddaa88dc22514b9bfa4c3066df95de26d4baf2de3de3e66c73beab90"
+file = "mods/cotton-client-commands.toml"
+hash = "6c13f0c13e84780d291f31fe4a9850bc249cada91dfd42e5813987ad053d062e"
+metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
@@ -807,8 +809,9 @@ hash = "6db8f727fc1c61413ca22c848e91a5f03e831a8779c91620c2758f7936f80057"
 metafile = true
 
 [[files]]
-file = "mods/itemscroller-fabric-1.16.2-0.15.0-dev.20200812.031004.jar"
-hash = "6ee2592e052180d87ad650e48a46839ff2dd63f6844f84556ae23f44e801bd65"
+file = "mods/itemscroller.toml"
+hash = "f0b9a4e5a862602e2ecc0cb1784adc1c9b17a5e8148fd75b675007bfef17d34e"
+metafile = true
 
 [[files]]
 file = "mods/karam.toml"
@@ -841,8 +844,9 @@ hash = "7e8b260b206ba93f60b08c79cb0dca578720dbbc698f7ea1ef560566ac8496ed"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.16.2-0.0.0-dev.20200812.031039.jar"
-hash = "259fdc88a437e6fb63635f29050303cd51c5e8bed10d8eb6b4ad051ebd1a1980"
+file = "mods/litematica.toml"
+hash = "f6ea4785f0cb20cafe2af2cb2c79ef9af52f34e065f242431f2b114b671e8390"
+metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
@@ -850,16 +854,19 @@ hash = "af30434270e5617c1791786344c4680500a096447fa891620a9f2ed45549c1bc"
 metafile = true
 
 [[files]]
-file = "mods/malilib-fabric-1.16.2-0.10.0-dev.21+arne.1.jar"
-hash = "146a6ae7a222d13d0dc2f04d0d9be3d268a1f1fa2998892c4074f72bb1182b8b"
+file = "mods/malilib.toml"
+hash = "30cb71487b959ed2c4e68dd2660c8ccbe1bfcca96a751b15827abdc54bdc81f7"
+metafile = true
 
 [[files]]
-file = "mods/meme-ext-pack-1.3.0.jar"
-hash = "b0c8d340c5e660b1e2b909cc9c1fd73a29a64cd25ae875f7921394eccca72a0e"
+file = "mods/meme-ext-pack.toml"
+hash = "7246ede9d1b18ce72dbf1ea776095a9103e9a39339eea764b0fe595d3dde402b"
+metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.16.2-0.19.0-dev.20200819.013355.jar"
-hash = "8198cf3781d3d82abfbcf3b54284d5a2cc1767d94ce410b5203005518681f58a"
+file = "mods/minihud.toml"
+hash = "0ca2f675bdd7ae765e145553966e5168da2f9856de8d55f6e5eaaf0124287aba"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
@@ -917,8 +924,9 @@ hash = "c777f52e3236298d67829b41802d6b83c67d932386bdb0cd25360b9058a21587"
 metafile = true
 
 [[files]]
-file = "mods/replaymod-1.16.2-2.4.4.jar"
-hash = "82e41af6810fc1b358c8ec68ec56f53133f3f5e1863a3c1335d89813e7d38b4c"
+file = "mods/replaymod.toml"
+hash = "2f3a067c6c54c9259307b2a56277911f07e9701284d313f02655a55900cb874c"
+metafile = true
 
 [[files]]
 file = "mods/rgbable.toml"
@@ -991,8 +999,9 @@ hash = "84a40680b0120ffd1228c069796e5eede96d1e910f3bb9fa95c5ca652a44ff47"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-plus-pack-1.1.0.jar"
-hash = "b24d64f77b828f62a86096b8c3b6636d0e18bb7d743fde823f561771d85a943c"
+file = "mods/vanilla-plus-pack.toml"
+hash = "630c8e26d4419510d3e29c86a6b71e2900b0735e51aabd2ac51ee0a98d3555aa"
+metafile = true
 
 [[files]]
 file = "mods/veggieway-fabric.toml"
@@ -1000,8 +1009,9 @@ hash = "797cc115975b2c202ec37153230303dc4f4be71ba2ab9c095db0e22fe6ccdc56"
 metafile = true
 
 [[files]]
-file = "mods/voyager-1.0.0.jar"
-hash = "aee9cb70aa1e5ffcc174a70ea153cffded9ab7a1bd849e18d947accdd5ae9150"
+file = "mods/voyager.toml"
+hash = "5674e2b52d26dd7f7b97b44b7869b4a754083d375787280d508859aac6687db6"
+metafile = true
 
 [[files]]
 file = "mods/wi-zoom.toml"

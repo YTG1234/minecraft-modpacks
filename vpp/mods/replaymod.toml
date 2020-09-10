@@ -1,0 +1,13 @@
+name = "Replay Mod"
+filename = "replaymod-1.16.2-2.4.4.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Use Replay Mod."
+default = true
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/replaymod-1.16.2-2.4.4.jar"
+hash-format = "murmur2"
+hash = "2255387307"

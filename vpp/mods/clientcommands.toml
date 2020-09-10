@@ -1,0 +1,13 @@
+name = "ClientCommands"
+filename = "clientcommands-1.4.7.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Use ClientCommands by Earthcomputer. Please only use this mod according to the server's rules, if you're playing on a server."
+default = true
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/clientcommands-2.4.7.jar"
+hash-format = "murmur2"
+hash = "3538221059"

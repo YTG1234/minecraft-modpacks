@@ -1,0 +1,8 @@
+name = "Vanilla+ Pack"
+filename = "vanilla-plus-pack-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/vanilla-plus-pack-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2550403478"

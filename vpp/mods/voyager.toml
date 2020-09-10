@@ -1,0 +1,13 @@
+name = "Voyager"
+filename = "voyager-1.0.0.jar"
+side = "both"
+
+[option]
+optional = true
+description = "Fix a bug in Minecraft that causes it to crash with Java 14. Keep this on if you're playing with Java 14, otherwise, do whatever you want."
+default = true
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/voyager-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1227268799"

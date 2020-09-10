@@ -1,0 +1,8 @@
+name = "Meme Songs Extension Pack for Song Sounds"
+filename = "meme-ext-pack-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/meme-ext-pack-1.3.0.jar"
+hash-format = "murmur2"
+hash = "3667643908"

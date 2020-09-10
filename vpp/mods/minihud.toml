@@ -1,0 +1,13 @@
+name = "MiniHUD"
+filename = "minihud-fabric-1.16.2-0.19.0-dev.20200819.013355.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Use MiniHUD, a mod that shows you an F3-like screen with some info."
+default = true
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/minihud-fabric-1.16.2-0.19.0-dev.20200819.013355.jar"
+hash-format = "murmur2"
+hash = "3594172491"

@@ -1,0 +1,13 @@
+name = "Item Scroller"
+filename = "itemscroller-fabric-1.16.2-0.15.0-dev.20200812.031004.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Use Item Scroller, a mod similar to Mouse Tweaks."
+default = true
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/itemscroller-fabric-1.16.2-0.15.0-dev.20200812.031004.jar"
+hash-format = "murmur2"
+hash = "3217620312"

@@ -1,0 +1,8 @@
+name = "Cotton Client Commands"
+filename = "cotton-client-commands-1.0.1+1.16-rc1.jar"
+side = "client"
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/cotton-client-commands-1.0.1+1.16-rc1.jar"
+hash-format = "murmur2"
+hash = "222161487"

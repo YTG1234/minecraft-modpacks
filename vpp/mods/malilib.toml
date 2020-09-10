@@ -1,0 +1,8 @@
+name = "MaLiLib"
+filename = "malilib-fabric-1.16.2-0.10.0-dev.21+arne.1.jar"
+side = "client"
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/malilib-fabric-1.16.2-0.10.0-dev.21+arne.1.jar"
+hash-format = "murmur2"
+hash = "1806676693"
