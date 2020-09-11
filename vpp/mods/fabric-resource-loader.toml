@@ -2,11 +2,6 @@ name = "Resource Loader Fabric"
 filename = "resource-loader-fabric-1.1.1.jar"
 side = "client"
 
-[option]
-optional = true
-description = "Use modpack custom resources. Strongly recommended you turn this on."
-default = true
-
 [download]
 url = "https://edge.forgecdn.net/files/3034/907/resource-loader-%5Bfabric%5D-1.1.1.jar"
 hash-format = "sha256"

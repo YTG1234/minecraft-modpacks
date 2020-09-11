@@ -1,0 +1,19 @@
+name = "Fabric-Discord Link"
+filename = "Fabric-Discord-Link-0.6.1.jar"
+side = "server"
+
+[option]
+optional = true
+description = "Install Fabric <--> Discord link."
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3033/61/Fabric-Discord-Link-0.6.1.jar"
+hash-format = "murmur2"
+hash = "500050923"
+
+[update]
+[update.curseforge]
+file-id = 3033061
+project-id = 318315
+release-channel = "beta"

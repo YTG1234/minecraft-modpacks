@@ -774,13 +774,18 @@ hash = "482531ff3bfbfef4a8a719c7f87e9d62a0f752b608b97dc76cc4869d0ddffd0c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-discord-link.toml"
+hash = "b675f2b1309545e787feb040554ffe99babec369ea05281af46f37e6db866a06"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "a3dc5e4111a18214315645b023b4477d8548516223faf5c639f90348cb199614"
 metafile = true
 
 [[files]]
 file = "mods/fabric-resource-loader.toml"
-hash = "ffdc525958460a5bb77e874a8a3b63bd67ec41f983e27a98d3e6a4e3d525fb92"
+hash = "50975de8c2d182166ea58ab665dbd9bbd5e11284bc8513ac02064f7b13461926"
 metafile = true
 
 [[files]]
