@@ -1,0 +1,19 @@
+name = "Gunpowder Market"
+filename = "gunpowder-market-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+side = "server"
+
+[option]
+optional = true
+description = "Market System. Also requires currency API"
+default = false
+
+[download]
+url = "https://edge.forgecdn.net/files/3035/67/gunpowder-market-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+hash-format = "murmur2"
+hash = "3973389511"
+
+[update]
+[update.curseforge]
+file-id = 3035067
+project-id = 402052
+release-channel = "beta"

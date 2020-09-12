@@ -804,6 +804,31 @@ hash = "b8dcccebf2438789a83b875bc08f01e5f48107482517c5c7c4aa9ecfe90ca0d3"
 metafile = true
 
 [[files]]
+file = "mods/gunpowder-currency.toml"
+hash = "c4cd8df0e85c3df286c453d5c67ee4f5f7c789c6020a76297a3969e889aec953"
+metafile = true
+
+[[files]]
+file = "mods/gunpowder-market.toml"
+hash = "aefe98b8d1d5c0767f575c545d4ca27c9e85a61bd58f020a85d7e25dd09018a6"
+metafile = true
+
+[[files]]
+file = "mods/gunpowder-mc.toml"
+hash = "67f8c6dfbb57ced24999854f83d23ac62139db36862ccc4fade90421e9be78a2"
+metafile = true
+
+[[files]]
+file = "mods/gunpowder-teleport.toml"
+hash = "d626bd5909f5ce16ffe69fd5f6a605af83b286f21466e4f79aacfa445804cfb5"
+metafile = true
+
+[[files]]
+file = "mods/gunpowder-utilities.toml"
+hash = "cbf1783f55143961943de9a84acf96073494f346b1d3cacd9cf50d2993d41a72"
+metafile = true
+
+[[files]]
 file = "mods/hwyla.toml"
 hash = "17436c44465a7d645dd8d963b5802e5cc7308a4b59f5fd7056581b9ec57c477c"
 metafile = true
@@ -811,6 +836,11 @@ metafile = true
 [[files]]
 file = "mods/infinity-fix.toml"
 hash = "6db8f727fc1c61413ca22c848e91a5f03e831a8779c91620c2758f7936f80057"
+metafile = true
+
+[[files]]
+file = "mods/inv-view.toml"
+hash = "2d68ca7c49917bead63183436e02322e4b0d637c433b6315e6780e80149a9407"
 metafile = true
 
 [[files]]

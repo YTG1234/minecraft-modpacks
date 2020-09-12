@@ -1,0 +1,19 @@
+name = "Gunpowder Currency"
+filename = "gunpowder-currency-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+side = "server"
+
+[option]
+optional = true
+description = "Currency and Money API."
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3035/68/gunpowder-currency-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+hash-format = "murmur2"
+hash = "467126907"
+
+[update]
+[update.curseforge]
+file-id = 3035068
+project-id = 402041
+release-channel = "beta"

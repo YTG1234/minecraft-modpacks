@@ -1,0 +1,19 @@
+name = "Inv View"
+filename = "InvView-1.16.2-1.0.1.jar"
+side = "server"
+
+[option]
+optional = true
+descriptions = "Allows server admins to edit other players' inventories and ender chests"
+default = false
+
+[download]
+url = "https://edge.forgecdn.net/files/3050/1/InvView-1.16.2-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3594705566"
+
+[update]
+[update.curseforge]
+file-id = 3050001
+project-id = 405159
+release-channel = "beta"

@@ -1,0 +1,19 @@
+name = "Gunpowder Utilities"
+filename = "gunpowder-utilities-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+side = "server"
+
+[option]
+optional = true
+description = "Various utilities like /hat, /fly and stuff"
+default = false
+
+[download]
+url = "https://edge.forgecdn.net/files/3035/62/gunpowder-utilities-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+hash-format = "murmur2"
+hash = "2856655096"
+
+[update]
+[update.curseforge]
+file-id = 3035062
+project-id = 402159
+release-channel = "beta"

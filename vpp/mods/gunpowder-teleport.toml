@@ -1,0 +1,19 @@
+name = "Gunpowder Teleport"
+filename = "gunpowder-teleport-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+side = "server"
+
+[option]
+optional = true
+description = "Adds commands like /tpa and /warp"
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3035/76/gunpowder-teleport-1.0.1+gunpowder.0.2.9.mc.1.16.2.jar"
+hash-format = "murmur2"
+hash = "2360062921"
+
+[update]
+[update.curseforge]
+file-id = 3035076
+project-id = 402042
+release-channel = "beta"
