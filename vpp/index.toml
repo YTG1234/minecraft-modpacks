@@ -9,44 +9,16 @@ file = "config/CottonDatapack.json5"
 hash = "698cf7b7708095ecf1db4419991ab5af8b8806a68240d5aef67a65b6398528b8"
 
 [[files]]
-file = "config/NBTTooltip.config"
-hash = "19200a26d6e48de88586e9fda98102f343f775b846d38b041e088b5c3c6419d3"
-
-[[files]]
 file = "config/allure.json5"
 hash = "34d58f01d8e367e6d004e2a801ac116f8b680b74c66e5eebadbbd94a630df11a"
-
-[[files]]
-file = "config/autofish.config"
-hash = "4169958b935bb921db8dcab60a4f42adbd36d137690cc42ccc04d7c7a946c160"
-
-[[files]]
-file = "config/bedrockify.json"
-hash = "936d15dda59e8c45c195e8d41fb142bbd2a41e2d846d1a9898dd48e888639bae"
 
 [[files]]
 file = "config/biome-weight.cfg"
 hash = "00998cf2657896be7cd292a4ac1058bb07c3b1f3ee2e14941ef7aebc1a5def3c"
 
 [[files]]
-file = "config/canvas.json5"
-hash = "e1b5ae1fa24fa56cec0564f79fffb335ce6001f9eeba6ffd3f2b38ea968e36e0"
-
-[[files]]
 file = "config/cavebiomes.json"
 hash = "1fdeaf191871ee467ad82b0b33f1c3cf7eec4cc6c22e5de04ecdeffc6821a310"
-
-[[files]]
-file = "config/clearview.toml"
-hash = "da435d100e69833454359f7d51597c52995426689cd4ec38ba40a20e274b2005"
-
-[[files]]
-file = "config/clientcommands/scripts/branch_mine.js"
-hash = "2458c2b60785fbdccb8134cb9b164170ce2bf3d428af001b0646042a0158ae88"
-
-[[files]]
-file = "config/colormatic.properties"
-hash = "7a863b8266169de88a9563455b3fc0f39e4fe2cc5ae42d9e60590c34ef0bfd82"
 
 [[files]]
 file = "config/colytra.json5"
@@ -109,14 +81,6 @@ file = "config/karam.json5"
 hash = "3c3c3098efd6127569c3708bad0e31c4c93daed09d56d841dce7c4cb5dc016e0"
 
 [[files]]
-file = "config/lambdacontrols.toml"
-hash = "ae7329d1bb839197ab765fc89e51a6e2617aa1f5861f3dbe524607b430d29598"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "7617420e3e3ed226363dbe6fc0547374db31b12e71f2418fcecfe0c311e30417"
-
-[[files]]
 file = "config/libcd.json"
 hash = "688d62f77d1e99697e4a3ce6f5d9c833d024472726da4e3c480b0e2281aea70a"
 
@@ -127,178 +91,6 @@ hash = "72f160d492707b03d8154fedde41431acefa32b0ee8f7c3234ecbe4db0ebf6e2"
 [[files]]
 file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
-
-[[files]]
-file = "config/litematica.json"
-hash = "e58c78f385e66395943172f43c27d7ce684cab6d32e80af9924fdcc4b7c7a6bd"
-
-[[files]]
-file = "config/litematica/litematica_10.100.102.16_19138.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_10.100.102.16_19138_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_10.100.102.16_25579.json"
-hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
-
-[[files]]
-file = "config/litematica/litematica_10.100.102.16_25579_dim___fallback.json"
-hash = "64be1f75ed18954c9c3b36fd75cc30dd14c79ad4ccd48be99052608f01d7a0ee"
-
-[[files]]
-file = "config/litematica/litematica_93.173.66.73_25579.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_93.173.66.73_25579_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Creative Flat.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_Creative Flat_dim_minecraft_overworld.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Creative Test.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_Creative Test_dim_minecraft_overworld.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Creative Test_dim_minecraft_the_nether.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Generated World.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_Generated World_dim_minecraft_overworld.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Test VanillaPlus world.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_Test VanillaPlus world_dim_minecraft_overworld.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Test VanillaPlus world_dim_minecraft_the_nether.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Test.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_Test_dim_minecraft_overworld.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_Test_dim_minecraft_the_nether.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_chaos.chaosmc.space.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_chaos.chaosmc.space_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_cubecraft.net.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_cubecraft.net_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_event.chaosmc.space.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_event.chaosmc.space_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_hypixel.net.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_hypixel.net_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_invadedlands.net.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_invadedlands.net_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_localhost_25565.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_localhost_25565_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_mc.ltt.gg.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_mc.ltt.gg_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_mpp.chaosmc.space.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_mpp.chaosmc.space_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_swm.hopto.org_19138.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_swm.hopto.org_19138_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_ztcraftcat.hopto.org.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_ztcraftcat.hopto.org_25565.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_ztcraftcat.hopto.org_25565_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/litematica_ztcraftcat.hopto.org_dim___fallback.json"
-hash = "7d5d4a4ae48df1715554ded06da834bc7ca606f1da01114883ab5ef7503906d5"
-
-[[files]]
-file = "config/litematica/material_cache.nbt"
-hash = "98630afea7fc8f36ec1f6777ad00cc37b5c94270d522d4457debbba456781c3c"
 
 [[files]]
 file = "config/lithium.properties"
@@ -401,48 +193,16 @@ file = "config/modkeys.properties"
 hash = "9aa1fc45010455ece689ce3954bff3064922e716e10bc0cd218ad90b9682e8af"
 
 [[files]]
-file = "config/modmenu.json"
-hash = "82641b59e06757c92a4bc65c2b3f1c7335f5aa97d07dcc1c1973ee0bd06945e7"
-
-[[files]]
-file = "config/motiono.json"
-hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
-
-[[files]]
 file = "config/moundertweaks.json5"
 hash = "f58a99c590470392619765427be486c298036a0b2fecbe5cf59d0f4c2b788cbf"
-
-[[files]]
-file = "config/mybrightness.cfg"
-hash = "df4fb2e9d39c387f0a33012a70a8eedf02203516a04d01d8e50373c18b41b751"
 
 [[files]]
 file = "config/ninjaphenix-container-library.json"
 hash = "cbbdeb9f8e402420f73493e4f48829efa063eb8732f4cc80056f749f27594a5d"
 
 [[files]]
-file = "config/no_fog.json"
-hash = "038fa5dfa5ce26a521e131edc40f645a4f7ff9f5466bc36665f90a9110d28446"
-
-[[files]]
-file = "config/notenoughcrashes.json"
-hash = "279aaa940df154957801a2681b84c04306a4ca3a1f87f942222d5a30a55c8de7"
-
-[[files]]
-file = "config/okzoomer-next.json5"
-hash = "ba6dc04662fe7e4447c8ab48947c3bb16bc1cba31a3211450c19ed955afe556b"
-
-[[files]]
-file = "config/overworldtwo.json"
-hash = "363d54a1fe1a2384c87126bd9e628d39a711de5ecf11131df6d5b3cd8e2a410c"
-
-[[files]]
 file = "config/plantinajar.json"
 hash = "5949642edac7f249fb63fa831ddbe18ff1f318fc64d2b3cf2fd9986c84a024f9"
-
-[[files]]
-file = "config/pling.json"
-hash = "f8e9d319bc5461fbd02c1f0bfb5f4f6834f30a91555f6ee40bdea888602a0d76"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -453,40 +213,12 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "636a415b417f1cf276c4778af31f9386112fd999544537c80c48c5b68450bd5e"
 
 [[files]]
-file = "config/replaymod.json"
-hash = "acac66d440d52af1fd78d8d3b49b7eea21aa792689675b4bdfa1ed8b9ea702b5"
-
-[[files]]
 file = "config/ringsofascension.toml"
 hash = "cefd8ca7ff2481840171ecef06f5ed9f9a465f8315e656dd1b35a7dd1cb9cf8f"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "91771f5b424517bef4e72499396a49ada8feffa0ac0757f0cfdbbaa708725a51"
-
-[[files]]
 file = "config/sandwichable.json"
 hash = "8180b9d6d7132e86bd6a9d27c73b2e2ebb7693f964c35ce07d81ffa989033b7d"
-
-[[files]]
-file = "config/slightguimodifications/config.json5"
-hash = "d30f0f118119f1d0728fe8399beb06e9b242bb50268d1bdde2601b2a1894275b"
-
-[[files]]
-file = "config/slightguimodifications/cts.groovy"
-hash = "2e14ac15db9760fc6d1631e511de4ce3dfbc93390cfd0a202eb7247444dd384c"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "28562926da585688cc04637bd723a20774e2e59d5f6327d86af6e99bc5bf6214"
-
-[[files]]
-file = "config/tiny-options.json"
-hash = "853ef244ad0974b170cd2d05d11954f0396f519ce666ddda45718670492f7d01"
 
 [[files]]
 file = "config/tinytweaks.json"
@@ -495,10 +227,6 @@ hash = "50bc0d91ff14499a767cb63f86fbccfcc9459c5f726b03286b478c5d521be474"
 [[files]]
 file = "config/trees-do-not-float.json5"
 hash = "e2075201a2d8dafca538d4767e0f05d3928811f641cd36dfe8d68184a9653eff"
-
-[[files]]
-file = "config/tweakeroo.json"
-hash = "fff7e79dde4f4e9df0ff0ab45703d21a009eda391c27d41ee61b5742d6696246"
 
 [[files]]
 file = "config/vanilla-hammers.json"
@@ -511,10 +239,6 @@ hash = "ecd34ff3acfc6afa99358e9b3b179227c50135ac3c1ffab39aa85e228c14ff0d"
 [[files]]
 file = "config/veggie_way.json"
 hash = "640c2be770234b7479ade184c834692b405df71d5730828d6c565f61a23f6576"
-
-[[files]]
-file = "config/voxelmap.properties"
-hash = "06e1e252897217ea512de79178919e76f9d73f2a1714563403e35fb674087cb2"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -539,18 +263,6 @@ hash = "045fecdba65adc6e1058617ce5c5756dcca59e5efcced207e4d0f2d6a3e3265b"
 [[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "e798de07eec8474358bb2280ffd2d8afca6478208800f9228a57fedc84a8850f"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "1ae51094d78d51e85191794c20963ecef6ae212ef18703413b29f99639af5e61"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "a416853532482cfae4f1164c2dda4503eac9bf1d08beb9aade4ef900b8cf5bcb"
 
 [[files]]
 file = "emotes/cheer.emote"
