@@ -829,6 +829,11 @@ hash = "d75eed4945f716935b35d0bf8679d35f5c5e9bc8ba0c12cc5e196f3cf49fa8ec"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "26cf47f895cfb812e703a0b2666bd9c5275b94cd9b5086ab753adb975bf3bb13"
+metafile = true
+
+[[files]]
 file = "mods/lambdacontrols.toml"
 hash = "8c2094e82351c66e426431c885ccb0904c6f1a4f0182a8e61007b04cfced51d6"
 metafile = true
@@ -1048,8 +1053,12 @@ file = "resourcepacks/Correct Names.zip"
 hash = "20ad0d0f82c0f945c1770249b5df35dd336966c0fa8e024f3c6440b4b1605c82"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r944609-Not-Laggy-Maybee.zip"
-hash = "a00b47446befa4972806f5e91632ec27b1a567d81514506f7a178fc9f6ffac76"
+file = "resources/assets/minecraft/blockstates/bookshelf.json"
+hash = "fa801daf4effa2746660c48febaa6515c288a6a5fe7dbe65120d84525e56e906"
+
+[[files]]
+file = "resources/assets/minecraft/blockstates/kelp.json"
+hash = "ffaa6fd25c3fd44aae37cdff3636450c104e8a84867ab6d14aa49d6753e1710c"
 
 [[files]]
 file = "resources/assets/minecraft/blockstates/note_block.json"
@@ -1058,6 +1067,10 @@ hash = "550d7b11f77249c2d0766d6f4cd7dbe829fe0d407137c614ce0d3cdff6c03a43"
 [[files]]
 file = "resources/assets/minecraft/blockstates/redstone_wire.json"
 hash = "58a9683a4bf92a84035657f72f8ef84fd73a57421774dc8132f3e923df56babb"
+
+[[files]]
+file = "resources/assets/minecraft/blockstates/soul_campfire.json"
+hash = "684cedf407862116651c48dc02da595533b95db4bc483632c222e01873cbc085"
 
 [[files]]
 file = "resources/assets/minecraft/lang/en_au.json"
@@ -1084,6 +1097,10 @@ file = "resources/assets/minecraft/lang/en_us.json"
 hash = "57e6884067e4f670abd36d1820d3d02f15a5c3a1f0f4386dcd57399e743bf804"
 
 [[files]]
+file = "resources/assets/minecraft/models/block/acacia_sign.json"
+hash = "8f82b1b4c354f9f2194029317ca092d8586c660c131767e2cc64969109632a66"
+
+[[files]]
 file = "resources/assets/minecraft/models/block/aged_crop.json"
 hash = "7542f6cfc73bb8498bab2ae85784abc6f4d6ce3f4bacccc3988df52dadd0716f"
 
@@ -1096,6 +1113,38 @@ file = "resources/assets/minecraft/models/block/beetroots_stage3.json"
 hash = "ac3aa6f30caf0b514c6a4d09f759f85ed0ff833edd0bc6de45fdb897a641e70a"
 
 [[files]]
+file = "resources/assets/minecraft/models/block/birch_sign.json"
+hash = "30d14631d253563589ab3f23038b8a2cc69be2a60d50a2a91a419c2357129192"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/bookshelf/block/0.json"
+hash = "517fc3e4302cb2f8ef328aa374e4f62b8d926801b23aaf51cd1237fe0ac204f6"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/bookshelf/block/1.json"
+hash = "b8d43c15560679d5e98b8aa312611b54c5bc3bd51e9a5f486c02f08456afbe0f"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/bookshelf/block/2.json"
+hash = "d1fa45304885dace8c1e506931fa025fcb8e9d3c212b000fd51ebfebbf85f10a"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/bookshelf/block/3.json"
+hash = "20bd9ea306d6384f4b2817913ff9f45eba5811f8be34a04d0a30a9586a003dbe"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/bookshelf/block/4.json"
+hash = "0e7f5caabd4b02b99239e4052b44d32cf16f98774fec5c1bf7c057eb63467a6f"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/bookshelf/block/5.json"
+hash = "f2645dbab8d368d327e5798193aba42a5838346d1cd0f066ab9204832d4f6a2f"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/bookshelf/block/6.json"
+hash = "8d65a299ada0d1c5efd47795cab61a3f6223a052ccbfb7da4dec9844a10d5ffc"
+
+[[files]]
 file = "resources/assets/minecraft/models/block/carrots_stage0.json"
 hash = "8741ec43a66f967bb226b2903831d3f446f5ae138fe4bbffa2e799876d6669fd"
 
@@ -1104,12 +1153,32 @@ file = "resources/assets/minecraft/models/block/carrots_stage3.json"
 hash = "8be9b17deb7887dd79c6c38868908104b80c5519a88527bd72cf530f6f3e15cb"
 
 [[files]]
+file = "resources/assets/minecraft/models/block/crimson_sign.json"
+hash = "2011959e42bd6093f97d132c3925a339f30afe21d9358cb64030b86963217ee7"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/ctm_sides.json"
+hash = "dbc28fe8661b7b155023f306a6e5acdf44d68cbd10c10c6cff7ddfb009487076"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/dark_oak_sign.json"
+hash = "511ce21687c5812c93c0116717895aa5d9c25e9f78e65ba67e9a1ffe230b4b84"
+
+[[files]]
 file = "resources/assets/minecraft/models/block/hopper.json"
 hash = "087cf1f98bcd4ab0c335a465639e4711f86dd44eb193d70aec5ec24c70958ef6"
 
 [[files]]
 file = "resources/assets/minecraft/models/block/hopper_side.json"
 hash = "33aa86979ee79d7d5f8b19d0782306464a38cf2c0761cfd9c960fbd36a06d109"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/jungle_sign.json"
+hash = "3b3dfb3f99cbce7de5f8cfe75ff1ef194a3cbca690321cd72345a0e90b3a230e"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/kelp_age_25.json"
+hash = "77db02f10a629a4ca18c70d39d3153765d07b33f8b7efb15e49045d7751ee9a3"
 
 [[files]]
 file = "resources/assets/minecraft/models/block/nether_wart_stage2.json"
@@ -1216,6 +1285,10 @@ file = "resources/assets/minecraft/models/block/note_block/9.json"
 hash = "28e6e06009ec850d67d2cdf3d695bb8a55895c6f3610a67d501cb2ce56ba2d55"
 
 [[files]]
+file = "resources/assets/minecraft/models/block/oak_sign.json"
+hash = "292c0c776cd44b89aac2def58790693ca45b21d6f84725fc073354fec3f657ba"
+
+[[files]]
 file = "resources/assets/minecraft/models/block/observer.json"
 hash = "045a4a0a5eb23ae5f20caec2489b5b2cc38d93ac3f99c91cf1b98989395f6835"
 
@@ -1308,6 +1381,18 @@ file = "resources/assets/minecraft/models/block/scouter.json"
 hash = "ab9e38f2c7c2e41b077c5b8b9e400bddde5acf07a3fdf32b4bdaf2a76d6c3989"
 
 [[files]]
+file = "resources/assets/minecraft/models/block/soul_campfire.json"
+hash = "9125bc01ef8ab549bae42e355df91a8e07780a437782dea31e0601161a9310d6"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/soul_campfire_off.json"
+hash = "e9ee6074e69a13275486586877884da3cbee26ba7af3d3f5a88f65ad1ac1e19d"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/spruce_sign.json"
+hash = "2d47a6b061913f24f2f979940e55c18f412783c41328c2e84ce00e5d6077ef94"
+
+[[files]]
 file = "resources/assets/minecraft/models/block/stem_fruit.json"
 hash = "edbe082335fac91ec28911ad5b9b8d12e87edc18aa5b79c51160a0b499b41819"
 
@@ -1318,6 +1403,10 @@ hash = "ee5c679b7d1c1aa5dc99bc62dc1571d75537600a4b6fcc9f8ddb70d56c11c60e"
 [[files]]
 file = "resources/assets/minecraft/models/block/sticky_piston_inventory.json"
 hash = "fc14ffec4f7472286718179902a22dcc109fdc8bbcdca8184eee6d03dbf4108c"
+
+[[files]]
+file = "resources/assets/minecraft/models/block/stonecutter.json"
+hash = "5c2a5f531475c2bb5da5eb68ed1b0c7af0bb0940dda80aad5fef74c84d42708e"
 
 [[files]]
 file = "resources/assets/minecraft/models/block/sweet_berry_bush_stage3.json"
@@ -1332,12 +1421,20 @@ file = "resources/assets/minecraft/models/block/template_piston_head_sticky.json
 hash = "b8a8845d84309e613263f21f907e157fea157a8ca1ed9050dd47f3e45cd262a3"
 
 [[files]]
+file = "resources/assets/minecraft/models/block/warped_sign.json"
+hash = "89bd9e0d21552dc1c60f4768e9fe9b90818f68dd11f8a7f027381d726f504914"
+
+[[files]]
 file = "resources/assets/minecraft/models/block/wheat_stage7.json"
 hash = "6b4a0bdb21e397313d7e9f9a2b616dccb2d6644029c9ced5ddf0dd359b07445d"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/apple.json"
 hash = "5e65f41396865bf0ea34ff27033cfe6e1d96e664b2e7a8f9b3a5fc9da093c2fb"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/axe_display.json"
+hash = "26c8f01ac790519553d844a2ce47e27e89455cb57e7a7e084f5ddae989768974"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/baked_potato.json"
@@ -1354,6 +1451,22 @@ hash = "913494389d796e85dd6a9bf1543495d6cbd76c189852a74d4e5d706e1511ad51"
 [[files]]
 file = "resources/assets/minecraft/models/item/beetroot_soup.json"
 hash = "2948b37893fb970debae594d3da93bc81b1393e6bad353d3c302e936ae01fbc8"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/bow.json"
+hash = "a4c64ad35414a06728c33d28d18d4154eeed3582168e2248688b3b9702c50e30"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/bow_pulling_0.json"
+hash = "80fe0333c1724037761d4235bda34ea45bcf4e8527a59e3c6030fb5c30925d63"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/bow_pulling_1.json"
+hash = "cb3d945e871f9c30518591f429db86448375a3ae9e58489284bcec2bbf4feb02"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/bow_pulling_2.json"
+hash = "a571690b32553e56b64e1c6669d50206e2e58243fb6159fd87fba86598a48dd0"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/bread.json"
@@ -1412,12 +1525,92 @@ file = "resources/assets/minecraft/models/item/cookie.json"
 hash = "06c90d789e0f8546908e2fbd2f6384d653a2d921814717b34b8b2a7fdb62f601"
 
 [[files]]
+file = "resources/assets/minecraft/models/item/crossbow.json"
+hash = "5fc3ca592920217d78ece46bc9d3a68f73dedfcfb98fcbdf4706a437ee81bb79"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/crossbow_arrow.json"
+hash = "c6d0bc72f9ab3d11aa70cdb6b8cab25fec27814d42851b4feb72b6a6b2ff6cb6"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/crossbow_firework.json"
+hash = "47be864488d35d6c3a690e9a92b88e230c1428569e1d9eeb63d77fa11f53184f"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/crossbow_pulling_0.json"
+hash = "c7ede1c38a374dec09551cda92c77ceb19188748777f97ecbeb6ed225b9128b0"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/crossbow_pulling_1.json"
+hash = "ae4df13fff178482ee55a164973f71a63e4cd6d257d4e8a5a11b0fe7544b4a23"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/crossbow_pulling_2.json"
+hash = "f049875e6cb1d684f1719ef04a4bd36c5b77ca109f8bf4408d9d8b89212f75f3"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/diamond_axe.json"
+hash = "a8a8fed53f304ed410b6fe344efec7c0cd56e0dd55d3fc3a7e7dc5e1a9eb797a"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/diamond_hoe.json"
+hash = "75cf2a9c085f7722d706ee08e17b7bbfe04dba165114ca44124b0439a1f32ec3"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/diamond_pickaxe.json"
+hash = "d66d05bd521c84a4bd1b02bbbfc0cd1289206fddfc2cbd37d4f79058870faf06"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/diamond_shovel.json"
+hash = "71e21e408ef5bc6d7b2be80fc1a3b289d7b0c50c5cd184e43b695a60faade4f3"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/diamond_sword.json"
+hash = "3615ff3b6e4e38737cd2f364394acecaed42462a1eaceb4b0ea457810baed6c0"
+
+[[files]]
 file = "resources/assets/minecraft/models/item/dried_kelp.json"
 hash = "980e9f27b973f44e68aed6a8b5609317c7d6686cf83a511cead2ec9be6b4f625"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/enchanted_golden_apple.json"
 hash = "898900ec484c76c3db3f553049db3ea879f57f55b93f4cfafe894351b0a532c5"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/firework_rocket.json"
+hash = "478fd4f6d07ac50d47ddfab256904742b2dc534e26c8af8ee37ff1ee5b1a1621"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/fishing_rod.json"
+hash = "546cc9bd9596b8c8e8bc1c760d089dffeec6dba5f00a63b9e9fc60967e0a4bcf"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/fishing_rod_cast.json"
+hash = "a81b3833c20b740c1cde483ab144c7287fb8314d0549da26bd94a625a2d920bb"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/flint_and_steel.json"
+hash = "09e88fd9075ad211f2549b82d63231c8fd00d1732932ba7d3d7dc8da1dccb10c"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/generic_axe.json"
+hash = "e526e022f555ff89ef3fcb0d7672f9af6c1270bc3ad56dccaf9ecbab68e429ce"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/generic_hoe.json"
+hash = "a84420405b6d824b62386ff8cad6811834accfb992c116cd187bc6a7a7cee515"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/generic_pickaxe.json"
+hash = "bf433abe972f569037b91d5a2efc38c649e9ddb6c85f111ca8ade380c70d5781"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/generic_shovel.json"
+hash = "9d63f28dc2bf64006e64f440a490ec48ae88b9e6f7515a57fbcf1a3f39c82be5"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/generic_sword.json"
+hash = "f53205c98ab40e8654280b3269787885e02ac3a2d9c17694d23959ef971219c0"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/glistering_melon_slice.json"
@@ -1428,12 +1621,56 @@ file = "resources/assets/minecraft/models/item/golden_apple.json"
 hash = "898900ec484c76c3db3f553049db3ea879f57f55b93f4cfafe894351b0a532c5"
 
 [[files]]
+file = "resources/assets/minecraft/models/item/golden_axe.json"
+hash = "1c5aba370318290c467e34c6b3d5ccada011f0ba00c6c2d68add9ad624020cbf"
+
+[[files]]
 file = "resources/assets/minecraft/models/item/golden_carrot.json"
 hash = "5bc5afbc873ad56893ab48257a2b700ce83ec6bfb54ed77d9f913c4db6f37b96"
 
 [[files]]
+file = "resources/assets/minecraft/models/item/golden_hoe.json"
+hash = "9621538a41cff0168860d13e0d264d53a82195d6bcee655423aeca6b3131feb7"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/golden_pickaxe.json"
+hash = "2db035b35e3ade175377e78adf48058c358be0be31124bf86ca89085a6332e3f"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/golden_shovel.json"
+hash = "1525104a8fa0537cf88d7f2003d3860d15e2bc4d51e25271ebbe280ad846a935"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/golden_sword.json"
+hash = "bf568798bf8699aa67ea3027886e19426f9bd5cceef7a45f3e0b83deaf2cfdc9"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/hoe_display.json"
+hash = "ee4635fc1c7ddd905f3d3783acfbff6f5b54358f622f452c2bfce464d42f0345"
+
+[[files]]
 file = "resources/assets/minecraft/models/item/honey_bottle.json"
 hash = "c9e3aab1d5241a3a5903744f041ab86705c9ee666baa776d2e8e9bc6655297c5"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/iron_axe.json"
+hash = "a078100c9bddec6ed2c78538a9ddbfe9345afda09aa9a1973ca43a2d86ae83da"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/iron_hoe.json"
+hash = "1a5e0641a8e3189faa81679cf44f3866a5acb6850f75e29411ea23a89bcf504a"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/iron_pickaxe.json"
+hash = "dd8a7153e30bc8a438be4a9005e452875dd205cb78d42ed79dcca59c494ee5e7"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/iron_shovel.json"
+hash = "e8e90132ba72c0153969b5d85f17ab4b42ada09f20919183cef325aaab39dfbc"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/iron_sword.json"
+hash = "c8fd17549e467a01b2c36dda5d861f27db078bf584674a808ac751f39114e484"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/melon_slice.json"
@@ -1446,6 +1683,30 @@ hash = "6b6d6f2455c910f9f64cdf432084daa69e02dc3a12166e8619f2484bed1c7aea"
 [[files]]
 file = "resources/assets/minecraft/models/item/mutton.json"
 hash = "772b930a51f175f171fb5077287960ab027651a5e8e32a5056294ae8e5a0fb76"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/netherite_axe.json"
+hash = "605e7ebeaccec764fa38b14e4b17764a62fb1b3916a0dfed89af8408af8b0647"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/netherite_hoe.json"
+hash = "0fea6a61772fca6de7a17d131d9d71acfcc6aad4dfe217de845ffa59d27f5b0b"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/netherite_pickaxe.json"
+hash = "e08e47827d87b798ff2c25f23ccbe24ea5f3e7662e0c747a87c3d200f1f62a72"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/netherite_shovel.json"
+hash = "db1561300c04ba6c05352f13dc516c6e9be6d4f2048331c344989afb47faabf2"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/netherite_sword.json"
+hash = "814bfcc4738468d212903506795aedf3cd2d29f84cea338b3a440551c05a6add"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/pickaxe_display.json"
+hash = "00ca38083ad030cd5266b2250cbb12eec95ecf9e3b3499fb0f9440a0c23b59b8"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/poisonous_potato.json"
@@ -1484,6 +1745,14 @@ file = "resources/assets/minecraft/models/item/salmon.json"
 hash = "17ac72e3dfbbdc8f735391c49e86f2fbe6ad7915d8a73418e49acb777174c23a"
 
 [[files]]
+file = "resources/assets/minecraft/models/item/shears.json"
+hash = "01db25de75755ebbadd417a222cf83f4427971f6ce4ffcbdea4cc205aeb3cfc9"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/shovel_display.json"
+hash = "7e4357df7deb2b7e4fbd0c90def5ccdf4e8eaa33aa80d31a8d2d570c49129a47"
+
+[[files]]
 file = "resources/assets/minecraft/models/item/smaller_util.json"
 hash = "616f4ed75dcf563301132e5c1f44402b8ad8338aa54cc700dea320f657c1db57"
 
@@ -1496,12 +1765,36 @@ file = "resources/assets/minecraft/models/item/sticky_piston.json"
 hash = "fcd7fb9069f94602a20ba50400d16df019320ca16f97152d7501ecd5ae27696c"
 
 [[files]]
+file = "resources/assets/minecraft/models/item/stone_axe.json"
+hash = "db8c92518d645c22da8289c3e39b6833ae0ab6af96496faaba97e8b345f29156"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/stone_hoe.json"
+hash = "fec530b162bc68ef2b233a54095723eb287880af45e1c496a3d19b4e909c771b"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/stone_pickaxe.json"
+hash = "8c685c8c59cf42362805310587725d07ef39032230130939b998e9833f54857a"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/stone_shovel.json"
+hash = "f2cd04c811d1c496b94c8194f463339ded0116f5f8727ebbb587f15468b25b11"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/stone_sword.json"
+hash = "45bacd84c084543b63eeee68e86396a794aec3a0776629f0cdf9dce4c3592888"
+
+[[files]]
 file = "resources/assets/minecraft/models/item/suspicious_stew.json"
 hash = "3b7c46e6d3e527ce9a2943a3997f06e697c3df112b23dd4579ef430f9dc8a7ce"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/sweet_berries.json"
 hash = "6bc1c29f3d187d67f0c86722ce5ebb66e071b5a26163a2b6a7986dbfa9e43b30"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/sword_display.json"
+hash = "e4581e29d5af0229d2370ef0ff281e50919378ca4a43bf31181bfe62135cb8e5"
 
 [[files]]
 file = "resources/assets/minecraft/models/item/totem_of_undying.json"
@@ -1512,12 +1805,36 @@ file = "resources/assets/minecraft/models/item/tropical_fish.json"
 hash = "91fcec892ab44e835fe758bd0aeea55fd7591a7b5a3e4ad3da911f3859781f34"
 
 [[files]]
+file = "resources/assets/minecraft/models/item/wooden_axe.json"
+hash = "ba799fc1b2e9f0b3330d94b18d88e44ab9fc511d3b34a92e4a7a16dac2e3dff0"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/wooden_hoe.json"
+hash = "238bef98d8913109ac1befc14afdb67231d660d2975ee3411d95736c37d3da9b"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/wooden_pickaxe.json"
+hash = "869b22368a32db26c16d6724a3d024aeae031201d845c5a66e581b118643814a"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/wooden_shovel.json"
+hash = "6c65db0de619c04239d4cb3bf92246c072694911b74370f50b06ebabc0409d35"
+
+[[files]]
+file = "resources/assets/minecraft/models/item/wooden_sword.json"
+hash = "993a83842eb1f30bb11ed47bdecf2438e5bb4138c1c797e33932fe3ee65536ff"
+
+[[files]]
 file = "resources/assets/minecraft/optifine/color.properties"
 hash = "ee7fc52ade2a0599de5563f3f411027a8065582a53d2dace3328e10723e033ce"
 
 [[files]]
 file = "resources/assets/minecraft/optifine/emissive.properties"
 hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/acacia_leaves.png"
+hash = "c6390a288c4b590ce75c2f2d8c22047e5428b8911cfba2f49e677e5e670a9b85"
 
 [[files]]
 file = "resources/assets/minecraft/textures/block/alert.png"
@@ -1544,12 +1861,16 @@ file = "resources/assets/minecraft/textures/block/ancient_debris_top.png"
 hash = "00bc7927d5c17b0a798bfc454763435746010c70f661847d21007663c1859847"
 
 [[files]]
+file = "resources/assets/minecraft/textures/block/birch_leaves.png"
+hash = "84744b437f10e03b8963efee3d5bcfe46e14a017c5da7a02708f9f54a85fe69b"
+
+[[files]]
 file = "resources/assets/minecraft/textures/block/coal_ore.png"
 hash = "5477ce0b4784ea07b92bdb21c52c77d2750c2a23f62f20c79f111529154cf23f"
 
 [[files]]
-file = "resources/assets/minecraft/textures/block/crimson_nylium_side.png"
-hash = "14494b6ddc02acfe16af0cfa66a0a6f813306cc6788dd0aea6242aefe9034834"
+file = "resources/assets/minecraft/textures/block/dark_oak_leaves.png"
+hash = "3a2d10812b5eda3fd1eac83081262514a35f9b2a547eff9ab09d75c3bb6285cf"
 
 [[files]]
 file = "resources/assets/minecraft/textures/block/destroy_stage_0.png"
@@ -1600,24 +1921,28 @@ file = "resources/assets/minecraft/textures/block/emerald_ore.png"
 hash = "a82101dd8889c0da30e365e1faa38e8fa641a23442d6e06541e5bf326cce168c"
 
 [[files]]
+file = "resources/assets/minecraft/textures/block/fire_0.png"
+hash = "3c9bd20cbfaa58ce53dd31b036b2216bd7fabab0d5aaec61c6e6feed103cf2ea"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/fire_0.png.mcmeta"
+hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/fire_1.png"
+hash = "6529107352a15e6c12e2c5c15eb1801a497ed2e94b28d3d5db7a4881d238325a"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/fire_1.png.mcmeta"
+hash = "264e3b93450a755a1270e28d456208e89cf520cae41de35453ab701f60a5dc3a"
+
+[[files]]
 file = "resources/assets/minecraft/textures/block/gilded_blackstone.png"
 hash = "1d2669a4d5ae722fe89f7faa79aab008bc74c872cbcd40bd4b7ad3802d6708c5"
 
 [[files]]
 file = "resources/assets/minecraft/textures/block/gold_ore.png"
 hash = "b550d30fa36e2b39a920e1c7b9a9e08890778212e44264e9a5945fd56fba29e0"
-
-[[files]]
-file = "resources/assets/minecraft/textures/block/grass_block_side_overlay.png"
-hash = "148e2376e330a642bf828cac7da6689e1e93e9c41f689c0fec456797ce3c9b39"
-
-[[files]]
-file = "resources/assets/minecraft/textures/block/grass_block_snow.png"
-hash = "be20d02bb427784aac79cf8d6f608274400b70cd809b970fe7c0229210243c2a"
-
-[[files]]
-file = "resources/assets/minecraft/textures/block/grass_path_side.png"
-hash = "7520e2d8bf22fb24009c840b125b0a36f33ed8cbd7224e5263eb6ffbf8df6cac"
 
 [[files]]
 file = "resources/assets/minecraft/textures/block/hopper_back.png"
@@ -1640,12 +1965,20 @@ file = "resources/assets/minecraft/textures/block/iron_ore.png"
 hash = "c94a6731e2fd60525c7d02859ad1623bb9455e1a20cabfeb8831e3c15a6cc8aa"
 
 [[files]]
-file = "resources/assets/minecraft/textures/block/lapis_ore.png"
-hash = "57e1b9cb23d2d62e615763fd45dd4b4ceb2021e720203d28c0f3d262320935b9"
+file = "resources/assets/minecraft/textures/block/jungle_leaves.png"
+hash = "68a0c35db7800ff1b9a94b5b567951c446404dda1842d76f23e944ed033ae621"
 
 [[files]]
-file = "resources/assets/minecraft/textures/block/mycelium_side.png"
-hash = "b9c80b8d971dd40f229e4bcf29960347c7562a8a1f2e3fe8230c4e6461296c23"
+file = "resources/assets/minecraft/textures/block/kelp_age_25.png"
+hash = "460251370ede925623d33c92a6760418c1d397ad41eadd6f9c341e0df104b86e"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/kelp_age_25.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/lapis_ore.png"
+hash = "57e1b9cb23d2d62e615763fd45dd4b4ceb2021e720203d28c0f3d262320935b9"
 
 [[files]]
 file = "resources/assets/minecraft/textures/block/nether_gold_ore.png"
@@ -1654,6 +1987,10 @@ hash = "c8a6ac81abaacf3fc87282f76228ddd6730ec6d173b925b81501dbc8eae82546"
 [[files]]
 file = "resources/assets/minecraft/textures/block/nether_quartz_ore.png"
 hash = "27656ec75bbc80154e85c48c1c4730dbab76c3b52efdef94962606db691892ef"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/oak_leaves.png"
+hash = "a388d89b84107acc9654c1f28d36e3dbe04d4245edab6cb16bdaa60373d1340d"
 
 [[files]]
 file = "resources/assets/minecraft/textures/block/observer_back.png"
@@ -1686,10 +2023,6 @@ hash = "7aaf49dc9f6b05480e735adf468a6f6cae1c3b033ae41c328a4467e4eac65f06"
 [[files]]
 file = "resources/assets/minecraft/textures/block/piston_side_sticky.png"
 hash = "4d0881e15b5676d583de28b3e0b9fd17aff95d265292e706843d135e85f3d15e"
-
-[[files]]
-file = "resources/assets/minecraft/textures/block/podzol_side.png"
-hash = "389b66ff8ca063736de52d36abe6de14ae5ec8955821447d123b6b9523e28b75"
 
 [[files]]
 file = "resources/assets/minecraft/textures/block/powerlevel00.png"
@@ -1772,16 +2105,80 @@ file = "resources/assets/minecraft/textures/block/redstone_ore.png"
 hash = "9e6b84010734637b4a4863772f797d3ce5c47cbfc3ae987518d2397549103777"
 
 [[files]]
+file = "resources/assets/minecraft/textures/block/smoker_top.png"
+hash = "c0e382bbf3cebc3cab1b24769862ee454dbd13a19034f1e3121bc2d01df37353"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/soul_campfire_log.png"
+hash = "bdc3fbc56ebb3bac2a3377e5b5b74f4e9e3339090ce446092b666a188f823ddf"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/soul_campfire_log_lit.png"
+hash = "6a8ceab676bb02c519f31823dd4eb9a022cbb91fa97d2889659c5655b4172fbd"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/soul_campfire_log_lit.png.mcmeta"
+hash = "4df0a0cf1fbc9319ebe93ad90d934f50e997a99216340d41ea95c175ec26bcba"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/soul_fire_0.png"
+hash = "394da743dcad6ac3cef9b77b01bbc136e61a9943a8661a9d2454d91a7adbd8ec"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/soul_fire_0.png.mcmeta"
+hash = "658d67c1b3206e23a401d04ec196512b72702b7b8c6fa0200c6c66250529bbbb"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/soul_fire_1.png"
+hash = "3768e478f17c1114772e7ec7d0e8259d623267fe5071f174e5ea0a8bac4875af"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/soul_fire_1.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resources/assets/minecraft/textures/block/spruce_leaves.png"
+hash = "05b1b69f24354cab1025da77f8f16abc20e5dd1991705345bb86db32dddbd67b"
+
+[[files]]
 file = "resources/assets/minecraft/textures/block/tripwire.png"
 hash = "756a341014d240731e8d3e29c9f7c95edae80369f30238f575800e73c9628b80"
 
 [[files]]
-file = "resources/assets/minecraft/textures/block/warped_nylium_side.png"
-hash = "93577293f8f638e56284d50d4e3db2e92bc610f5441a244b0a0048479790a436"
+file = "resources/assets/minecraft/textures/break/acacia_sign.png"
+hash = "8c299b13702d879d2c1816947e1a31f707e94e712ed0af33ca9d98a6a34281af"
+
+[[files]]
+file = "resources/assets/minecraft/textures/break/birch_sign.png"
+hash = "2f5ba1e55b62f7ab1a3a1b580b1ccfb0d31fc070871a7d2633922761aeeba170"
+
+[[files]]
+file = "resources/assets/minecraft/textures/break/crimson_sign.png"
+hash = "ed050b97061ae0abed44e66ead4f59fd389d649e79faf9aee72ff211ec8619da"
+
+[[files]]
+file = "resources/assets/minecraft/textures/break/dark_oak_sign.png"
+hash = "f45c1d90dbd2e4907fb7b28bacf662345080ad614a8edc5bde9c30246dd119bb"
 
 [[files]]
 file = "resources/assets/minecraft/textures/break/hopper.png"
 hash = "f855c8f2ade0b2563ee74e429847b32e2dcb0d81ffd9531fc5a2fff9202dbfa6"
+
+[[files]]
+file = "resources/assets/minecraft/textures/break/jungle_sign.png"
+hash = "75e1edc6ae06ff7377fec259a1cf91f874e5b7eccde5daf6f6aff3c530fd372e"
+
+[[files]]
+file = "resources/assets/minecraft/textures/break/oak_sign.png"
+hash = "bfb402e31ee6686e041f78c827d889b4a44154dd7c4034fab98b45115a48b1d7"
+
+[[files]]
+file = "resources/assets/minecraft/textures/break/spruce_sign.png"
+hash = "ed2d1da9d59e47c6f4c3785d4436d8726b1a830e878bb4b3dcfddbad13b33e54"
+
+[[files]]
+file = "resources/assets/minecraft/textures/break/warped_sign.png"
+hash = "452c1ad1e250f4829dd9bf0ca01ab36423f812a5f72923b3d05bb88faa43993d"
 
 [[files]]
 file = "resources/assets/minecraft/textures/custom/note_block/0.png"
@@ -1888,12 +2285,100 @@ file = "resources/assets/minecraft/textures/custom/note_block/notes.psd"
 hash = "3f90e3bf89ea1cdc5a9a6cf0555382f4c4495fef42f6d29aed15db5321129a5a"
 
 [[files]]
+file = "resources/assets/minecraft/textures/entity/blaze.png"
+hash = "153bbc1df6bb4e00c13747440dc95f60bf1c3420d52710d736cdf8c9dda1888e"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/guardian.png"
+hash = "9935efe2333ebf38471952413e10c75af9ec57ceea5f10eeb65b059581603a9c"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/guardian_elder.png"
+hash = "788e21844af2d55a7ccd9e838201f1b89f665a8066dfc6eeb6f230a896dea5bd"
+
+[[files]]
 file = "resources/assets/minecraft/textures/entity/iron_golem/iron_golem.png"
 hash = "d5b5324790ecc61addc6a7029f1fc6a966f2ceb10df6b3c4b1d821b867ddb4d0"
 
 [[files]]
 file = "resources/assets/minecraft/textures/entity/iron_golem/iron_golem_crackiness_high.png"
 hash = "8aee112e34c13a4cc003d14f5be1cbdde79de9960bb77ad55b46a14df1df9b36"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/signs/acacia.png"
+hash = "8dae88bccc75fa73950b19c439929bf9be0d482cb5f2035c7f8638585ffe6d1d"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/signs/birch.png"
+hash = "678aa710896488d094ad06c33a3576eacd580f6481a53b54004304c2e26c2a8c"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/signs/dark_oak.png"
+hash = "f7279ad5ce9c8c84b55c6e256dd1b6a977b8236fa918afddb818a0848dcdb280"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/signs/jungle.png"
+hash = "a34ac0d5fa2dbb575d6b15dd47248d9456a6111ac9529c6cba27cc8320bd203b"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/signs/oak.png"
+hash = "cdabaf2808594374377d952624672e5a7aeb8b12e4e96bcbc29f7f53a7ffac8c"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/signs/spruce.png"
+hash = "545f58b585d970bca9c1d278c5e256693164e982534b10854f3108bb2d550bc0"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/profession/armorer.png"
+hash = "4cbe8f79d000f414f8f9d212066a122a5b234d24f3cf0908c0beacf8ccfeaa6c"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/profession/cleric.png"
+hash = "fe4e8d5dc2d1970087a741294bb2402a003ae325fbff0504771d16741f557c61"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/profession/fisherman.png"
+hash = "5f8022c331f1adf94c1487b2d04fa94fec70a40d3764cf5729c892312dab284e"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/profession/fletcher.png"
+hash = "384f509748e0e9ff1ec1a03a6b5688f43180120e8c14f8194fd163c4d1267bf5"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/profession/leatherworker.png"
+hash = "4515a14894f10028fa5d61b248c8cbeb13f6396cf04a4098eeba3c563aa9e3a6"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/profession/toolsmith.png"
+hash = "c43b47ecba7528ede56cc273d7548012525edd1402a3dac09d8cda5006771956"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/profession/weaponsmith.png"
+hash = "675fdd2450e48d6fb09ec32ebc579f516c2fb0670672bc52999b03c582d4e42a"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/type/desert.png"
+hash = "88a9f7903c7dc6d3901ea4564d76d32fff866689261c13dae20cb896d06548b7"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/type/jungle.png"
+hash = "bacc702fe3637e02a25cf0edc9343db9fdce92c2e302984c401a7b34efa4b9c9"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/type/plains.png"
+hash = "91179ba8ceb4ce90e882b02aa7417109861c958ac00c5921246fb2f54021b6c1"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/type/savanna.png"
+hash = "3da2ce67603c41b8dc1811c7ac61a18f67a86b2ecca7de56801e6a72de70f993"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/type/snow.png"
+hash = "8622be1c4a59909c8b282cf849b94ca049044a10ea6a51eeb71fb890fd94d131"
+
+[[files]]
+file = "resources/assets/minecraft/textures/entity/villager/type/swamp.png"
+hash = "da0eb82d727cc06e7ed184217899dad9501339ca79bd7a7ba482ce7ddfde1827"
 
 [[files]]
 file = "resources/assets/minecraft/textures/gui/accessibility.png"
@@ -2069,7 +2554,7 @@ hash = "a9680d3aef1dcf34746df5922ec3702803a7672fb88c9f15fbfd155fa223ec8e"
 
 [[files]]
 file = "resources/assets/minecraft/textures/gui/icons.png"
-hash = "c1bb874b7e724df2d54ff236a0ff6fbcb377099e48350677ddb1a66a0e0e5747"
+hash = "328cfc12fa1bfcfd97874023d86deb693154ab4421ccf65a767ac41015c79c04"
 
 [[files]]
 file = "resources/assets/minecraft/textures/gui/recipe_book.png"
@@ -2077,23 +2562,55 @@ hash = "62498e38cf7313e3bf428a7a4817c74a83851f2fc48ec6caa4437012b2c7d482"
 
 [[files]]
 file = "resources/assets/minecraft/textures/gui/recipe_button.png"
-hash = "583aa0f4a63e03c485852a13d87e344d9e53f293d9759ffb81b4aef27fe4dc01"
+hash = "34b32609a7c8bf3b990be9f66137b36eafb18b853daabf44a707929928d335cd"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/spectator_widgets.png"
+hash = "1c24d56cb88dd799ca0a6ca60953d8b778537881cd2b6ae37afeb19f455f93a2"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "3f65be6c944f5e4b31102f301a1f0f4432edc5761820a238261ae8d2df456c4d"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "869b218bd519e329ed778a26d4795786016dd7128412e4a8bdfcd20aef323110"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "60b251740015e955a8c675754d6b81b9d6099d10b88e939bf1a064b5eb6236cc"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "bbcd03db04eb40cf349e9a3b635fb71f17f724b533eb9e42d3ab353c7bf2d432"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "58187c233a548f35bf17bf620cd66341627833c17998ed26dbf75e952caeb2e2"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "4fd3bd1b57f995ba918b3fe2a93bbc3bbc7273fcbb05db0ba3a8b47f924e9e82"
 
 [[files]]
 file = "resources/assets/minecraft/textures/gui/title/edition.png"
 hash = "83855c26ce1cc66f20ac50893b37a838a28ec389c3a43b46d989be09d6af9bb7"
 
 [[files]]
-file = "resources/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "6efe1c29e346316e31d5b2b26942824de7e90073938f39a4b55e12b0f6ef53ed"
-
-[[files]]
-file = "resources/assets/minecraft/textures/gui/title/mojang.png"
-hash = "aa4a0ce621e19508ba4258bcefbd52b6f67646ff7748b4768395766a4efbdce9"
+file = "resources/assets/minecraft/textures/gui/toasts.png"
+hash = "38788b53ebaa06cc380e883cc7646057f33ffbdb76cd2ce7b0b177ba42143482"
 
 [[files]]
 file = "resources/assets/minecraft/textures/gui/widgets.png"
 hash = "2f674300adf207105e74b248612e82af2111a4b2480b9b7871a9fc20ff9cd833"
+
+[[files]]
+file = "resources/assets/minecraft/textures/item/acacia_sign.png"
+hash = "5c506702d6da46eefd888d88995661564bfd60de94f49cde2bdf2ba939392b03"
+
+[[files]]
+file = "resources/assets/minecraft/textures/item/birch_sign.png"
+hash = "0768b86a3afe6c40ca6e0e451ed830436b8485dafab3e3bd04c79515ee2b3a10"
 
 [[files]]
 file = "resources/assets/minecraft/textures/item/campfire.png"
@@ -2106,6 +2623,14 @@ hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
 [[files]]
 file = "resources/assets/minecraft/textures/item/creeper_banner_pattern.png"
 hash = "b2cb93554810fd591bf2f32e88fd5a6f0382fc165ef6959d8718499f01a69ff7"
+
+[[files]]
+file = "resources/assets/minecraft/textures/item/crimson_sign.png"
+hash = "bc437785dc50fcc3f8f209a89f138ee9deb6d3ce26f2c1a34aa046b2e61e5d53"
+
+[[files]]
+file = "resources/assets/minecraft/textures/item/dark_oak_sign.png"
+hash = "d3781de16198f59d010ec7e51b711ea816d2715649dda4bf55d39a7a7163d65c"
 
 [[files]]
 file = "resources/assets/minecraft/textures/item/empty_armor_slot_boots.png"
@@ -2128,6 +2653,10 @@ file = "resources/assets/minecraft/textures/item/empty_armor_slot_shield.png"
 hash = "169e68fbb30e67fe00069a0a683e4ced6f5897e2b1f8c713c8203c335a863212"
 
 [[files]]
+file = "resources/assets/minecraft/textures/item/experience_bottle.png"
+hash = "76dea2f5144eb6a995e62adb8c2ad11f533827f653234a7fb77d4bedd9586429"
+
+[[files]]
 file = "resources/assets/minecraft/textures/item/flower_banner_pattern.png"
 hash = "8708e99ecc76f8ace115e16e4f334e5a6538075c39c08bb890afcf06ff671815"
 
@@ -2138,6 +2667,14 @@ hash = "d23d54b4128cd823c4e398c4786a4861d9fccbc642606fd3ce89a3f4ef7689c5"
 [[files]]
 file = "resources/assets/minecraft/textures/item/gray_dye.png"
 hash = "34110d5d6e35c783d10f088dffe4a05dceafc29acd70206ff71f74f2527cb27f"
+
+[[files]]
+file = "resources/assets/minecraft/textures/item/iron_nugget.png"
+hash = "089cd02cf6a8dee61d59a67516e14190f97f3633789ec2726216d20718ae71b3"
+
+[[files]]
+file = "resources/assets/minecraft/textures/item/jungle_sign.png"
+hash = "dcd706f87a9191cdbc1c7e86eb5555bc7f2d3472ba9db3bf7ed71d7e8e206e06"
 
 [[files]]
 file = "resources/assets/minecraft/textures/item/leather_boots.png"
@@ -2184,6 +2721,10 @@ file = "resources/assets/minecraft/textures/item/mojang_banner_pattern.png"
 hash = "b7e048b518588004b025a0d7db40b54dc8c731b7c5eb8fa7525e2c259d0926fc"
 
 [[files]]
+file = "resources/assets/minecraft/textures/item/oak_sign.png"
+hash = "166040d8a79024895ee9cbc40d79bfcdfbc65f775b24bf3f9ea0ad09c94287a8"
+
+[[files]]
 file = "resources/assets/minecraft/textures/item/piglin_banner_pattern.png"
 hash = "42a4b919cb7e243102b6c19f5c4bf61cba01e214f0e8a33971d1d6d1b064900d"
 
@@ -2208,6 +2749,14 @@ file = "resources/assets/minecraft/textures/item/soul_campfire.png.mcmeta"
 hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
 
 [[files]]
+file = "resources/assets/minecraft/textures/item/spruce_sign.png"
+hash = "4ffabfb756435e12ba90177e3a5adec87c4f1362ba73b1ed892a848f0d964ece"
+
+[[files]]
+file = "resources/assets/minecraft/textures/item/warped_sign.png"
+hash = "57f7f5d9ec14df6fcd30e1cc5236a3bf6bec44a186ffad62f7aacb5f1229cf93"
+
+[[files]]
 file = "resources/assets/minecraft/textures/misc/enchanted_item_glint.png"
 hash = "005a2d126cd40085a366d2a3e7b00270d5b6d5b16250f941755111e287c4e41c"
 
@@ -2220,6 +2769,10 @@ file = "resources/assets/minecraft/textures/misc/pumpkinblur.png"
 hash = "e8b5883fd73c262761e06da0e8a61bd2be61b07fc7e69fda8ea53953201df8db"
 
 [[files]]
+file = "resources/assets/minecraft/textures/misc/vignette.png"
+hash = "03d2bdba0ebc720830ad918e36127197b30fb870bc94d69828f70927b3ee0540"
+
+[[files]]
 file = "resources/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
 hash = "136c3eac790d9908fb2e7d0fda3259dbd41da67d890b29a4ed1e5032421fb9be"
 
@@ -2228,124 +2781,64 @@ file = "resources/assets/minecraft/textures/models/armor/leather_layer_2_overlay
 hash = "07f2c47fe92a165adbf0f8c75eee4c2470bd411b9acb99e99b6ef1d909e8174f"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/angry.png"
-hash = "579edf0ec5918a047a0723a53a3152acd3019ae4f5d1f31c55908b1f126c8b85"
+file = "resources/assets/minecraft/textures/painting/back.png"
+hash = "7718c398f73e94e1563ca869c98e8ac471c1b6504f4ead12ce8f462f9b1c3f50"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/damage.png"
-hash = "8be3cc80d6f02174b801291752b2759b7526302c5f1f8cfd939ff0d7d1cc2364"
+file = "resources/assets/minecraft/textures/variated/bookshelf/0.png"
+hash = "614156e22b83b1b55b84c668a9f7fbd3e730fdc906730f10fed481a3a635c11a"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/glint.png"
-hash = "447a2a3e46da1b4c85b7a16f3a185c02fa016c441a0f7382e0fae1ddebabf0d7"
+file = "resources/assets/minecraft/textures/variated/bookshelf/0_borderless.png"
+hash = "bee443733972a4c454af74a463309e7c84de438755de731c2058d6f6a3d8c966"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/heart.png"
-hash = "0099e4150c8efac2dd016247c04f1c827ce9b277a8ccdfda52a8ec3dda67b44b"
+file = "resources/assets/minecraft/textures/variated/bookshelf/1.png"
+hash = "06d9b5904fbcafaaa4c1e7c98d71b9665c7333892bb2ff870d3f5a789f0d689a"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_a.png"
-hash = "70d5bf9c8a5843d3545daee3d04b0a2dfa21fc94d8d3b759d176828f5b499b01"
+file = "resources/assets/minecraft/textures/variated/bookshelf/1_borderless.png"
+hash = "5396ba6db501cf5b2169339a7cdeee13f35f86e850c63d6b2c8f948f4b5d213a"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_b.png"
-hash = "1f853f6ffc39133b0877d29567e5474fdc9d5b995b457ecf3dd322171ebea9bf"
+file = "resources/assets/minecraft/textures/variated/bookshelf/2.png"
+hash = "feacc40dc4d88563067faf9f5ad9d231cd31fce329aa198f8b0bb8ae8ac53a33"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_c.png"
-hash = "2382878c34b1a9e629ed0796f6da32ef326b8a2c3d2fe897204c0ac5747bc3f8"
+file = "resources/assets/minecraft/textures/variated/bookshelf/2_borderless.png"
+hash = "b993a320fdbbfc978ff16676a704ca8e623b41eda70d4479bb2c6af98b78ff78"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_d.png"
-hash = "c871ebde972e78c7a2228589cc47db7807c2ac4f618df77323db62a2de9bdf37"
+file = "resources/assets/minecraft/textures/variated/bookshelf/3.png"
+hash = "bd7c08d34cc068fc95825eb5e6de7a6de6d087ee5ef90a34bfe9e10a705b20da"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_e.png"
-hash = "d2dbb89b52bc91cf567b2be6ceb508336255784287144dc55b0ece5aedad9248"
+file = "resources/assets/minecraft/textures/variated/bookshelf/3_borderless.png"
+hash = "539411e8113dcb517a7edb9312467d22c1ded918c457d809b6ff1d6515de2f3a"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_f.png"
-hash = "5951af426c491aaed46f5b557c88fc70a8ce7fe3d593a18eb833dddf9efda793"
+file = "resources/assets/minecraft/textures/variated/bookshelf/4.png"
+hash = "f5b97742cd3ec93f7b3776136f6f04136904862ed6d0dec0a5a9e11381b20006"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_g.png"
-hash = "4319ac33a01f085b3e05d10b0fadeb99c3ec3819313a3cf563622c4616a079af"
+file = "resources/assets/minecraft/textures/variated/bookshelf/4_borderless.png"
+hash = "a276f8ab11889056abe9aec54d9ed798959836766d095db5b47398b6f54567e2"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_h.png"
-hash = "3009b68b112b36a42b6805427c55abb60a05a507d7291746ab4ee23939fe378f"
+file = "resources/assets/minecraft/textures/variated/bookshelf/5.png"
+hash = "da76c9889716fc60b324a78707f8696334cd8460effcec65f3e8626fa61f0010"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_i.png"
-hash = "87b613fea2776a411a353851c7b8ce29731e668fc4f038756ad94132b25b2e94"
+file = "resources/assets/minecraft/textures/variated/bookshelf/5_borderless.png"
+hash = "14b71ebfa8dfd33349e007ece4e5c36a11fda77e004ffa726650c0c46c90e97c"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_j.png"
-hash = "e6661ed9fe647444421acf4ca8909d3ddee095fa06ce2c62f10dadb685557f6f"
+file = "resources/assets/minecraft/textures/variated/bookshelf/6.png"
+hash = "8d6caf3c9f676d140fa871fa64d8742d8ff09ff9be4e6e86b8cefc546d93c36c"
 
 [[files]]
-file = "resources/assets/minecraft/textures/particle/sga_k.png"
-hash = "3a2a066cf4a71052128bc480b929ba51b420c4656fa483384240d7cf5869579f"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_l.png"
-hash = "a010f356783abd4384ce979da5bf16da24af21f412854df2a1770f2f9401114c"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_m.png"
-hash = "fcc70763aecaa7f77d02d5516b915f5905d02dc78ef604735eca887ba0d9e444"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_n.png"
-hash = "a68074eb46c54d70e9888cb9beadf95116a4833b9963ee40f92819c42524a0f1"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_o.png"
-hash = "820c665ae4e0c998c41025636b8e53a99e37c3f1e2192b9054510599d2744a64"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_p.png"
-hash = "332a6bee9d7023978cb7027b7b68fb5010ef8f6fcc5ea0b74fa763e04fe18c34"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_q.png"
-hash = "2013b109a09035d240d0bf1d822fa272194234bf3baff73a8c4ee62e842982e4"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_r.png"
-hash = "35abc150b2769bde52e03eb769685aaf1e42a7c62ac189b27da5706cadfe824c"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_s.png"
-hash = "fc897b42578552b98daf313735b5dfd94d5157e8b70a44ded58820c3a27c78f0"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_t.png"
-hash = "1978115d2e334c0cc3d7b55945d08b1080fce7a75295e86c9834e1500c6f1502"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_u.png"
-hash = "7d17609b52c69b2d2a8db20fbd27e4dfac53cb0bbd986f3741ff49bf1c92b6a2"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_v.png"
-hash = "821ac0b66527318a285ee0dc86d805cef93ae07c9f4ef149acc978f3be23fa81"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_w.png"
-hash = "f4e0df27d396f61181816b40b5140b7b6f0f9a64baaf3b619c5f7f157e5abdcd"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_x.png"
-hash = "9a227b9961f3f957500d05118421f3f00c3f4298ac001d7e383c52398d822fbd"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_y.png"
-hash = "a1eef65f9cc29c3499feb6caee6d07cd1b791a5eb2a3942818db28d126b9f36f"
-
-[[files]]
-file = "resources/assets/minecraft/textures/particle/sga_z.png"
-hash = "9417c9974056b51ea179753a5bd65763a5b02c6fe38c0adc373f9d4a6ecb8d5a"
+file = "resources/assets/minecraft/textures/variated/bookshelf/6_borderless.png"
+hash = "65e2c91672ebbff5915e4247ff70919be44a8e6a2e1e7a42fdc0272a1619bb41"
 
 [[files]]
 file = "resources/pack.mcmeta"

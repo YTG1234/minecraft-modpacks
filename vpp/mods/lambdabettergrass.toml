@@ -1,0 +1,19 @@
+name = "LambdaBetterGrass"
+filename = "lambdabettergrass-fabric-1.0.0+1.16.3.jar"
+side = "client"
+
+[option]
+optional = true
+description = "LambdaBetterGrass is a Optifine-style better grass mod."
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3054/572/lambdabettergrass-fabric-1.0.0+1.16.3.jar"
+hash-format = "murmur2"
+hash = "481015858"
+
+[update]
+[update.curseforge]
+file-id = 3054572
+project-id = 400322
+release-channel = "beta"
