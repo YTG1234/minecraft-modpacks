@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/bedrockify.toml"
-hash = "565dc5f9db13b5cc8682ffe4ef8cd68fe0a34a4bf597852f76e3a6971d4e1869"
+hash = "8416d20a54cd4887ff01d6701b57897cf0b7e86c45a30b75958ece854959ab64"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/ezpas.toml"
-hash = "45527c9118712c10f179c0e3093f098f72d09323bb0f9752ab02d8fb16572185"
+hash = "7c62b6adef9af58bedbd18d7c8474b7a0717f2e8d7a64811a3bf6a42416b242d"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "ce675896d09d31796f128121ae2fcc07d1c3bb4621ac17d50e633cbdf726c649"
+hash = "685f2bd8dcba87041a0b701799f8c906c1048d49b9f8a3c1ff9c801f755eb0cc"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/slotlink.toml"
-hash = "14e4d88729a3f5ba9387a927b1f8c2ed8da696ce50ce82b4efa45f55780bae67"
+hash = "3f5523a12d3b98e805c11e2bcdb7e136c17bd96886f7b0e7ba6f6d99e9b8b982"
 metafile = true
 
 [[files]]
@@ -1040,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-hammers.toml"
-hash = "09dabf9b2eb8135aa643d1731d6e0a6852808110b655b82af8424b44110beca9"
+hash = "dcc254796877057e251d5562f9ea330e5ffa051bde864c12c6b63b27647f9e97"
 metafile = true
 
 [[files]]

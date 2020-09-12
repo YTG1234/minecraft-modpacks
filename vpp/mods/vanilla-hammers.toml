@@ -1,14 +1,14 @@
 name = "Vanilla Hammers"
-filename = "vanilla-hammers-2.0.7-1.16.2.jar"
+filename = "vanilla-hammers-2.0.8-1.16.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3053/398/vanilla-hammers-2.0.7-1.16.2.jar"
+url = "https://edge.forgecdn.net/files/3054/16/vanilla-hammers-2.0.8-1.16.2.jar"
 hash-format = "murmur2"
-hash = "2282918692"
+hash = "2541594642"
 
 [update]
 [update.curseforge]
-file-id = 3053398
+file-id = 3054016
 project-id = 317756
 release-channel = "beta"
