@@ -4,6 +4,7 @@
 		"compostableDirt": true,
 		"compostableGrass": true,
 		"shovelGrinding": true,
+		"dirtToPath": true,
 		"explosiveFuel": true,
 		"fieryFuel": true,
 		"lavaSand": false,
@@ -29,10 +30,14 @@
 			"enable": true,
 			"cactiChance": 19,
 			"sugarCaneChance": 30
-		}
+		},
+		"lampToggle": false,
+		"harvestablePots": true
 	},
 	"client": { 
 		"potionGlint": true,
-		"optimizedBamboo": true
+		"optimizedBamboo": true,
+		"enableConfigButton": true,
+		"noNightVisionFlashing": true
 	}
 }
