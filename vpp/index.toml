@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.toml"
-hash = "d75eed4945f716935b35d0bf8679d35f5c5e9bc8ba0c12cc5e196f3cf49fa8ec"
+hash = "abeec8830e9d5c6c9fdaa26354d9f7a56340175cbecbdeeae4170dc9152d277c"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/moundertweaks.toml"
-hash = "88708b0576664abf7f911613dad0563b8f28ef3f2c18e38202e45a11b64535b9"
+hash = "1d4c63d0611677cf606b472db75489a2a6a143646a4495a9648179c27ed96da1"
 metafile = true
 
 [[files]]

@@ -1,14 +1,14 @@
 name = "MounderTweaks"
-filename = "mounderfod-moundertweaks-1.3.0.jar"
+filename = "mounderfod-moundertweaks-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3044/87/mounderfod-moundertweaks-1.3.0.jar"
+url = "https://edge.forgecdn.net/files/3056/104/mounderfod-moundertweaks-1.4.0.jar"
 hash-format = "murmur2"
-hash = "1379219272"
+hash = "3641235106"
 
 [update]
 [update.curseforge]
-file-id = 3044087
+file-id = 3056104
 project-id = 404512
 release-channel = "beta"
