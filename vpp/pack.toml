@@ -3,7 +3,7 @@ name = "Yet Another Vanilla+ Pack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "42131531a9b723a06b60427fb4e47f1b7f0957705a36776c5757f4971d53f871"
+hash = "43bf4b889639185143ad80dd684e66bbbbe17348d0dbfd0188bc677608eb5a80"
 
 [versions]
 fabric = "0.9.3+build.207"

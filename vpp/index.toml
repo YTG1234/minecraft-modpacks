@@ -265,6 +265,10 @@ file = "config/worldedit/worldedit.properties"
 hash = "e798de07eec8474358bb2280ffd2d8afca6478208800f9228a57fedc84a8850f"
 
 [[files]]
+file = "credits.txt"
+hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
+
+[[files]]
 file = "emotes/cheer.emote"
 hash = "27a729bee5091d6a01d4cb1c86ab6d5b3da903ad7e7ac4b8a55bd88049b1622d"
 
