@@ -740,6 +740,11 @@ hash = "a7188ab19cf69e21e6966139fb3e237acca54842ae69a235e0bf6771fcc9feb0"
 metafile = true
 
 [[files]]
+file = "mods/tis-3d.toml"
+hash = "466ce381d374506aa16452eaebff56890e932e531cd5de236bbb20d8e0b7212b"
+metafile = true
+
+[[files]]
 file = "mods/trees-do-not-float.toml"
 hash = "5725abce017bf609b22f29a1d0d34cdad14c416a9964ee8fa6d327751fc3a378"
 metafile = true

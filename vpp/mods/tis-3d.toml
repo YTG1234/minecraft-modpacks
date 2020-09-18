@@ -1,0 +1,14 @@
+name = "TIS-3D"
+filename = "TIS-3D-MC1.16.2-Fabric-1.5.0.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3057/723/TIS-3D-MC1.16.2-Fabric-1.5.0.10.jar"
+hash-format = "murmur2"
+hash = "2970422336"
+
+[update]
+[update.curseforge]
+file-id = 3057723
+project-id = 238603
+release-channel = "beta"
