@@ -523,6 +523,11 @@ hash = "5c1da0279386424fc6415508c9db6390ed8e2201417e98cd248da11117425df5"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.toml"
+hash = "a4f0ef9a0a561271fe1e4d47d44bd606de338f788f6199fc0a2529b9358dd56f"
+metafile = true
+
+[[files]]
 file = "mods/fallflyinglib.toml"
 hash = "166a4db07b1721fe95d60cfd21d3b446d81f5cc4d9af9ac32fb91a82624c4ec4"
 metafile = true
