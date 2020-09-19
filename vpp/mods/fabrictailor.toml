@@ -1,6 +1,6 @@
 name = "FabricTailor"
 filename = "fabrictailor-1.2.0-1.16.2.jar"
-side = "server"
+side = "both"
 
 [option]
 optional = true
