@@ -1,0 +1,14 @@
+name = "Get Off My Lawn"
+filename = "get-off-my-lawn-1.16.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3039/613/get-off-my-lawn-1.16.2-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1317496834"
+
+[update]
+[update.curseforge]
+file-id = 3039613
+project-id = 365750
+release-channel = "beta"

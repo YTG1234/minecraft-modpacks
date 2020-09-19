@@ -1,0 +1,19 @@
+name = "JLine for Dedicated Server"
+filename = "jline4mcdsrv-0.0.2.jar"
+side = "server"
+
+[option]
+optional = true
+description = "Better console for Dedicated Servers"
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/2996/356/jline4mcdsrv-0.0.2.jar"
+hash-format = "murmur2"
+hash = "967013954"
+
+[update]
+[update.curseforge]
+file-id = 2996356
+project-id = 392559
+release-channel = "beta"

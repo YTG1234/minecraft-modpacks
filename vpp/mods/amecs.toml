@@ -1,19 +1,19 @@
 name = "Amecs (Fabric)"
-filename = "amecs-1.3.1+mc.1.16.1.jar"
+filename = "amecs-1.3.2+mc.1.16.3.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3059/705/amecs-1.3.2+mc.1.16.3.jar"
+hash-format = "murmur2"
+hash = "384254914"
+
+[update]
+[update.curseforge]
+file-id = 3059705
+project-id = 324564
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Use Amecs, a mod which allows you to have key combinations as keybinds."
 default = true
-
-[download]
-url = "https://edge.forgecdn.net/files/3032/564/amecs-1.3.1+mc.1.16.1.jar"
-hash-format = "murmur2"
-hash = "525755700"
-
-[update]
-[update.curseforge]
-file-id = 3032564
-project-id = 324564
-release-channel = "beta"

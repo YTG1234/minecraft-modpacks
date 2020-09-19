@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "6e3c99892951cb7534b674315c9cbee868a5f6d113d266a857b09bbb4cb9cc08"
+hash = "9879cd369703f7765c4f37d3e0749935a23be4afa3217a26d97e1746f4d71c06"
 metafile = true
 
 [[files]]
@@ -402,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/cave-biomes.toml"
 hash = "a10c32a05523e8d5f7c1da67dc86ec860cce68ae1056baeda7e3d8c80c9fe30c"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.toml"
+hash = "636f8766d23c9372a394fccf107de418228daa40b5aa7cd1f132bb6f5ccd0769"
 metafile = true
 
 [[files]]
@@ -520,6 +525,11 @@ hash = "b8dcccebf2438789a83b875bc08f01e5f48107482517c5c7c4aa9ecfe90ca0d3"
 metafile = true
 
 [[files]]
+file = "mods/get-off-my-lawn.toml"
+hash = "71371e0467f4d518dfbc79fabe3d16d6aad141e5a85e9d7e0e6d7d93133b63f2"
+metafile = true
+
+[[files]]
 file = "mods/gunpowder-currency.toml"
 hash = "c4cd8df0e85c3df286c453d5c67ee4f5f7c789c6020a76297a3969e889aec953"
 metafile = true
@@ -565,8 +575,13 @@ hash = "f0b9a4e5a862602e2ecc0cb1784adc1c9b17a5e8148fd75b675007bfef17d34e"
 metafile = true
 
 [[files]]
+file = "mods/jline-for-minecraft-dedicated-server.toml"
+hash = "1fcf7c9c5d2b148f9f12a983e8e4ecae5263e1c49eed8c35bcd1ae1ecc2cafcf"
+metafile = true
+
+[[files]]
 file = "mods/karam.toml"
-hash = "1f1dc1f51d41170012662f709aaa141fd62386273bea7c73aea04acf36f51e37"
+hash = "ae5c0390a979384f4981076cdd20a7772ae3590c018c6f48d7889370f70a28c5"
 metafile = true
 
 [[files]]
@@ -651,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "2f482d0097e5759e36e040c381ff9c494dae333b9ae68eef50fdfb3ea3080ab0"
+hash = "eae0510388f17cbc21c12eeabf1dd7b95ed7dc065d9799a0b1928ffe2cd2c949"
 metafile = true
 
 [[files]]
@@ -687,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.toml"
 hash = "2f3a067c6c54c9259307b2a56277911f07e9701284d313f02655a55900cb874c"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "229368476415e00c40d04edd18db1746f09d858c9f87ff6f20cd4b853ba759e8"
 metafile = true
 
 [[files]]
@@ -756,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-automated.toml"
-hash = "cb701abf7784076f940ee20264f8d93a145903224bd8cb4cb3a8f798616dd63f"
+hash = "1c6ee17d7732c821fe765eea78e0b33981f6854fa538a508294dd8ec5129339b"
 metafile = true
 
 [[files]]
@@ -797,6 +817,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "9bf7b615b464f99fa8a0c0f4efb33dcd67f3c84754e050bb74ceabaf8b586dc7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves-fabric.toml"
+hash = "dd712e6b4e5a59822b385ecceb48f7a068efa67a163b3ff47d4a05c32ab743b6"
 metafile = true
 
 [[files]]

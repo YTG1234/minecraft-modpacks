@@ -1,0 +1,14 @@
+name = "Chat Heads"
+filename = "chat_heads-0.1.2+1.16.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3057/632/chat_heads-0.1.2+1.16.2.jar"
+hash-format = "murmur2"
+hash = "4180787627"
+
+[update]
+[update.curseforge]
+file-id = 3057632
+project-id = 407206
+release-channel = "beta"
