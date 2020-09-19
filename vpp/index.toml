@@ -13,6 +13,10 @@ file = "config/allure.json5"
 hash = "34d58f01d8e367e6d004e2a801ac116f8b680b74c66e5eebadbbd94a630df11a"
 
 [[files]]
+file = "config/bettercaves-fabric-1_16.toml"
+hash = "514314948f3778bbcf4f9f544d75ff47cf1b5d33635cc27cf92604d01e2eec57"
+
+[[files]]
 file = "config/biome-weight.cfg"
 hash = "00998cf2657896be7cd292a4ac1058bb07c3b1f3ee2e14941ef7aebc1a5def3c"
 
@@ -211,6 +215,10 @@ hash = "6795f6c43d0298fd2b254136b84c7728cb45c04e09ea28e79e77f67106934615"
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
 hash = "636a415b417f1cf276c4778af31f9386112fd999544537c80c48c5b68450bd5e"
+
+[[files]]
+file = "config/repurposed_structures-main.toml"
+hash = "e301903404888f4427ba65bf5cf264af8400ea765deca4fce429b6e9468ab30c"
 
 [[files]]
 file = "config/ringsofascension.toml"
