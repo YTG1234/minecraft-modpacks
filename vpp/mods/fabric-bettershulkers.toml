@@ -1,0 +1,14 @@
+name = "[Fabric] BetterShulkers"
+filename = "bettershulkers-v0.1.0-1.16.x_alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3060/369/bettershulkers-v0.1.0-1.16.x_alpha.jar"
+hash-format = "murmur2"
+hash = "2268867729"
+
+[update]
+[update.curseforge]
+file-id = 3060369
+project-id = 408860
+release-channel = "beta"

@@ -503,6 +503,11 @@ hash = "482531ff3bfbfef4a8a719c7f87e9d62a0f752b608b97dc76cc4869d0ddffd0c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-bettershulkers.toml"
+hash = "1a3484384a7bb74e63058f786f077efaf5b95fd590ef0286e4ad8b61d74be9d7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-discord-link.toml"
 hash = "b675f2b1309545e787feb040554ffe99babec369ea05281af46f37e6db866a06"
 metafile = true
