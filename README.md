@@ -4,4 +4,4 @@
 
 Here are some [Minecraft](https://minecraft.net/) modpacks that I made!
 
--   [Vanilla Plus Pack](./vpp)
+-   [Yet Another General Modpack](./vpp)
