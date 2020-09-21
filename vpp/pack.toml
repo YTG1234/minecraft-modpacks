@@ -3,7 +3,7 @@ name = "Yet Another General Modpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e84bcc923993ae56edc6f05db0aee215926d749b7082e4209c319c510bccbdbc"
+hash = "0d30ee10d8a2c16f4b65872665bdb7a7c4156c7c501faeaaa346c56507cdbf7a"
 
 [versions]
 fabric = "0.9.3+build.207"

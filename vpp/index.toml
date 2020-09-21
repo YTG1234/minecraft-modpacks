@@ -658,6 +658,11 @@ hash = "0ca2f675bdd7ae765e145553966e5168da2f9856de8d55f6e5eaaf0124287aba"
 metafile = true
 
 [[files]]
+file = "mods/mod-credits.toml"
+hash = "2a6f7678eb7469ec45d2375295196a8d6c651d4b433a8e2fbfe375e92dba8844"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "2e500796903c3c8120173ed96576fee51e45640757ad86742e95d606b2adc9f8"
 metafile = true

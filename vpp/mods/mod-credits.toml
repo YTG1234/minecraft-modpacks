@@ -1,0 +1,14 @@
+name = "Mod Credits"
+filename = "modcredits-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3061/438/modcredits-1.0.0.jar"
+hash-format = "murmur2"
+hash = "808103664"
+
+[update]
+[update.curseforge]
+file-id = 3061438
+project-id = 409121
+release-channel = "beta"
