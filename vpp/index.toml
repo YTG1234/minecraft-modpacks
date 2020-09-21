@@ -30,7 +30,7 @@ hash = "a7a23b8da6b864a82826e027479efc7eb2d686addcf3fbf4142dea2126a3cd46"
 
 [[files]]
 file = "config/craftpresence.properties"
-hash = "f9e0b8d0aa7c18cf4df21dcce63214f2205091e922a43eae5543bde9def57444"
+hash = "3f95ad36f78dc830b05cd2e4a6c07c3cd66f541f445982bdae4f1a2694aa48b6"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
