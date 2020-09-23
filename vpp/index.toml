@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/discordfabriclink.toml"
-hash = "77e5fc3cde8d51169fd97dc6749903b83609ec18e1ca815766a18154dd4b1b0a"
+hash = "6ed8493db0bd229093f6a01eba238f492d016653ccd4c27646c779c7dcb888c2"
 metafile = true
 
 [[files]]
