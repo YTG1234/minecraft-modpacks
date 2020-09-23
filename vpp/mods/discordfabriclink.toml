@@ -1,0 +1,13 @@
+name = "DiscordabricLink"
+filename = "discordfabriclink-1.0.0-all.jar"
+side = "server"
+
+[option]
+optional = true
+description = "Use Discord Fabric link by Kara/Dyon/HeyItsMeNobody. Link your discord chat to MC chat!"
+default = true
+
+[download]
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/discordfabriclink-1.0.0-all.jar"
+hash-format = "murmur2"
+hash = "2605575383"

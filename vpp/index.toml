@@ -473,6 +473,11 @@ hash = "b177e3750999f1d33f0740d14fea07805b1e8fbf6df5584b09e2dbd660719225"
 metafile = true
 
 [[files]]
+file = "mods/discordfabriclink.toml"
+hash = "77e5fc3cde8d51169fd97dc6749903b83609ec18e1ca815766a18154dd4b1b0a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "3342bd94f37dec03dd750d8e71750e317529d19f625b2591d9b7d742ed70a20a"
 metafile = true
@@ -505,11 +510,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-bettershulkers.toml"
 hash = "1a3484384a7bb74e63058f786f077efaf5b95fd590ef0286e4ad8b61d74be9d7"
-metafile = true
-
-[[files]]
-file = "mods/fabric-discord-link.toml"
-hash = "b675f2b1309545e787feb040554ffe99babec369ea05281af46f37e6db866a06"
 metafile = true
 
 [[files]]
