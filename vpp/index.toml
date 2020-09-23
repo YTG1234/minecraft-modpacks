@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/ezpas.toml"
-hash = "ab157b206f5a64192a4b24938a5fdf0c688ed784f170a59c42d82f21e1b3d8b1"
+hash = "858c91b6b85e23dd659900398d420319bcd651eaf6c37bd4fc7d00c8398afffc"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemscroller.toml"
-hash = "f0b9a4e5a862602e2ecc0cb1784adc1c9b17a5e8148fd75b675007bfef17d34e"
+hash = "fd6963c6923e979f1c6267d85e2090003b800378fbef7df4e4e344ae2939882b"
 metafile = true
 
 [[files]]
@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "f6ea4785f0cb20cafe2af2cb2c79ef9af52f34e065f242431f2b114b671e8390"
+hash = "5331dd3eb4b4c58bb0ebf12b33c1d433aa44f0e3ec22a9c733ab4711a1cee5a5"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "30cb71487b959ed2c4e68dd2660c8ccbe1bfcca96a751b15827abdc54bdc81f7"
+hash = "b03f4e59e6b472f665a18623ef3144764c4d4962a06462671e2cc5e227e7d206"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "0ca2f675bdd7ae765e145553966e5168da2f9856de8d55f6e5eaaf0124287aba"
+hash = "bcd61a25937b1c804e8698e26210499ac395c375387d0b9a6a4aa981fc1062fa"
 metafile = true
 
 [[files]]

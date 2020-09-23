@@ -1,5 +1,5 @@
 name = "Litematica"
-filename = "litematica-fabric-1.16.2-0.0.0-dev.20200812.031039.jar"
+filename = "litematica-fabric-1.16.3-0.0.0-dev.20200920.161640.jar"
 side = "client"
 
 [option]
@@ -8,6 +8,6 @@ description = "Use Litematica. Like Schematica, but for newer versions."
 default = true
 
 [download]
-url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/litematica-fabric-1.16.2-0.0.0-dev.20200812.031039.jar"
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/litematica-fabric-1.16.3-0.0.0-dev.20200920.161640.jar"
 hash-format = "murmur2"
-hash = "2528817553"
+hash = "3987055104"
