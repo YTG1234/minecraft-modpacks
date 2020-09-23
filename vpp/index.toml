@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "a19bfc58af8d6ed0382f484f5352bda78c9d9c52c915d187977cf30ac7759d91"
+hash = "4647cb788cad5acc7f381ea95985cc7cc0da6b490963eb767c9a73bfb726a305"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/ezpas.toml"
-hash = "7c62b6adef9af58bedbd18d7c8474b7a0717f2e8d7a64811a3bf6a42416b242d"
+hash = "ab157b206f5a64192a4b24938a5fdf0c688ed784f170a59c42d82f21e1b3d8b1"
 metafile = true
 
 [[files]]
@@ -730,11 +730,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "229368476415e00c40d04edd18db1746f09d858c9f87ff6f20cd4b853ba759e8"
-metafile = true
-
-[[files]]
-file = "mods/rgbable.toml"
-hash = "cb1829754351f833f0aa4f8e55ecf5ac6a30470338a18a29b880987a7a5d6b08"
 metafile = true
 
 [[files]]

@@ -1,14 +1,8 @@
-name = "EZ Pipes and Stuff (EZPaS)"
+name = "EZPaS"
 filename = "ezpas-1.2.2-1.16.2.jar"
-side = "both"
+side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/3054/638/ezpas-1.2.2-1.16.2.jar"
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/ezpas-1.2.2-1.16.2.jar"
 hash-format = "murmur2"
-hash = "3846534073"
-
-[update]
-[update.curseforge]
-file-id = 3054638
-project-id = 381973
-release-channel = "beta"
+hash = "1067735763"

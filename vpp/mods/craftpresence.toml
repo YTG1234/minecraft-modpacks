@@ -1,19 +1,14 @@
 name = "CraftPresence"
-filename = "CraftPresence-Fabric-1.16.2-1.6.8.jar"
-side = "client"
-
-[option]
-optional = true
-description = "Show your Minecraft status in discord!"
-default = true
+filename = "CraftPresence-Fabric-1.16.3-Release-1.7.1.jar"
+side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3029/540/CraftPresence-Fabric-1.16.2-1.6.8.jar"
+url = "https://edge.forgecdn.net/files/3060/609/CraftPresence-Fabric-1.16.3-Release-1.7.1.jar"
 hash-format = "murmur2"
-hash = "2955987164"
+hash = "866334302"
 
 # [update]
 # [update.curseforge]
-# file-id = 3029540
+# file-id = 3060609
 # project-id = 297038
 # release-channel = "beta"
