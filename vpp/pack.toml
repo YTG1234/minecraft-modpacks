@@ -3,9 +3,9 @@ name = "Yet Another General Modpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6eb4b7b0e8575e99fa377c11179ddb9a26594dc38f8ec954efb04306d1bf8106"
+hash = "58e97a97892ac936e04fe1505bb2be913e90bb646d230adbdcd2e99dee7b95ff"
 
 [versions]
 fabric = "0.9.3+build.207"
-minecraft = "1.16.2"
-yarn = "1.16.2+build.47"
+minecraft = "1.16.3"
+yarn = "1.16.3+build.11"

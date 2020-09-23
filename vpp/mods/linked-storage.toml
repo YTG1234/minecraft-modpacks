@@ -1,14 +1,14 @@
 name = "Linked Storage"
-filename = "linkedstorage-1.3.8-1.16.jar"
+filename = "linkedstorage-1.3.9-1.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3051/874/linkedstorage-1.3.8-1.16.jar"
+url = "https://edge.forgecdn.net/files/3061/753/linkedstorage-1.3.9-1.16.jar"
 hash-format = "murmur2"
-hash = "3816126740"
+hash = "3467705144"
 
 [update]
 [update.curseforge]
-file-id = 3051874
+file-id = 3061753
 project-id = 357718
 release-channel = "beta"

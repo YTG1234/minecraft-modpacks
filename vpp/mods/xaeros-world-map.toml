@@ -1,19 +1,14 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.10.3_Fabric_1.16.2.jar"
+filename = "XaerosWorldMap_1.11.0_Fabric_1.16.3.jar"
 side = "both"
 
-[option]
-optional = true
-description = "A worldmap mod."
-default = true
-
 [download]
-url = "https://edge.forgecdn.net/files/3048/346/XaerosWorldMap_1.10.3_Fabric_1.16.2.jar"
+url = "https://edge.forgecdn.net/files/3063/330/XaerosWorldMap_1.11.0_Fabric_1.16.3.jar"
 hash-format = "murmur2"
-hash = "3211658901"
+hash = "3752429820"
 
-# [update]
-# [update.curseforge]
-# file-id = 3048346
-# project-id = 317780
-# release-channel = "beta"
+[update]
+[update.curseforge]
+file-id = 3063330
+project-id = 317780
+release-channel = "beta"

@@ -1,14 +1,14 @@
 name = "TinyTweaks"
-filename = "tinytweaks-1.0.12.jar"
+filename = "tinytweaks-1.0.13.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3036/273/tinytweaks-1.0.12.jar"
+url = "https://edge.forgecdn.net/files/3061/543/tinytweaks-1.0.13.jar"
 hash-format = "murmur2"
-hash = "3834029260"
+hash = "2924423474"
 
 [update]
 [update.curseforge]
-file-id = 3036273
+file-id = 3061543
 project-id = 378858
 release-channel = "beta"
