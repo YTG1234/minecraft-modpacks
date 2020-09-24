@@ -1,5 +1,5 @@
 name = "DiscordFabricLink"
-filename = "discordfabriclink-1.0.0.jar"
+filename = "discordfabriclink-1.0.1.jar"
 side = "server"
 
 [option]
@@ -8,6 +8,6 @@ description = "Use Discord Fabric link by Kara/Dyon/HeyItsMeNobody. Link your di
 default = false
 
 [download]
-url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/discordfabriclink-1.0.0.jar"
+url = "https://ytg1234.github.io/minecraft-modpacks/jars/vpp/mods/discordfabriclink-1.0.1.jar"
 hash-format = "murmur2"
-hash = "2671417711"
+hash = "2860924580"

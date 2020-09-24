@@ -4,7 +4,7 @@ side = "server"
 
 [option]
 optional = true
-description = "Use the GunpowderMC API. Requried for all Gunpowder extensions. Known to break DiscrodFabricLink."
+description = "Use the GunpowderMC API. Requried for all Gunpowder extensions."
 default = true
 
 [download]
