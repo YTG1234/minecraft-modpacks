@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/discordfabriclink.toml"
-hash = "705c073a572dfb93071309f239b8e7ed6829a929c459486a721d957abace74a0"
+hash = "86d5bc6c7b7fa2007b073b1c5ff7246bf01b988b3a66a4a6c3ad39c3d0975b06"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/gunpowder-mc.toml"
-hash = "67f8c6dfbb57ced24999854f83d23ac62139db36862ccc4fade90421e9be78a2"
+hash = "9b3ee4fbee27c4adf54d70b36004f0da11aa7ab37db5d58d129b33600a8b50be"
 metafile = true
 
 [[files]]
