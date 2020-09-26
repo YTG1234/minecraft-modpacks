@@ -1,0 +1,14 @@
+name = "Fabric for Fabric"
+filename = "mounderfod-fabric-for-fabric-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3061/963/mounderfod-fabric-for-fabric-1.4.1.jar"
+hash-format = "murmur2"
+hash = "1582170505"
+
+[update]
+[update.curseforge]
+file-id = 3061963
+project-id = 396248
+release-channel = "beta"

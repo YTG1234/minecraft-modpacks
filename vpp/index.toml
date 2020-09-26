@@ -418,6 +418,11 @@ hash = "636f8766d23c9372a394fccf107de418228daa40b5aa7cd1f132bb6f5ccd0769"
 metafile = true
 
 [[files]]
+file = "mods/chat-history.toml"
+hash = "79baf0ef39bb8dbdd01aef72e2b1bb04328b266f3678588161301b0eb7ab9b27"
+metafile = true
+
+[[files]]
 file = "mods/clearview.toml"
 hash = "c628e80f1b8ab5ceedbc6679365b9c889de310a650fc97a159d69ba0acbd0980"
 metafile = true
@@ -510,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-bettershulkers.toml"
 hash = "1a3484384a7bb74e63058f786f077efaf5b95fd590ef0286e4ad8b61d74be9d7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-for-fabric.toml"
+hash = "8f48b14eebe4040313f3cced81360ed5d0d5768b37956fcaf814ea83895fdbb8"
 metafile = true
 
 [[files]]

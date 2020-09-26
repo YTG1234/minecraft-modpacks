@@ -1,0 +1,14 @@
+name = "Chat History"
+filename = "chathistory-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3065/497/chathistory-1.0.2.jar"
+hash-format = "murmur2"
+hash = "3051188303"
+
+[update]
+[update.curseforge]
+file-id = 3065497
+project-id = 409227
+release-channel = "beta"
