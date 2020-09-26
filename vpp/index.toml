@@ -2651,7 +2651,3 @@ hash = "0d4a5fbe903857d056aa0d1a7a7e7cbbea27ac8ff1f39005d53a475287121054"
 [[files]]
 file = "resources/pack.png"
 hash = "f5ab6b7fcca5ab63725c57d067a0639f5ab667208203e63ae7ddf699475bd8c1"
-
-[[files]]
-file = "servers.dat"
-hash = "d481f97dce0531285e9fd4ecfb66f46fbab9bc3924de9501d87e06857100c197"
