@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "26cf47f895cfb812e703a0b2666bd9c5275b94cd9b5086ab753adb975bf3bb13"
+hash = "c4e55f65b1241d0d93448ad26023aa04afdc562b658520a27e93ab6d3f9aa059"
 metafile = true
 
 [[files]]
