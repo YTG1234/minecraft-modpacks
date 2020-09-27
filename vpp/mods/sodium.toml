@@ -1,0 +1,19 @@
+name = "Sodium"
+filename = "sodium-fabric-mc1.16.3-0.1.0.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Sodium, by JellySquid, improves Minecraft's client-side performance and chunk loading. It is incompatible with canvas, so you will get a crash if you try to use it with Canvas"
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3067/101/sodium-fabric-mc1.16.3-0.1.0.jar"
+hash-format = "murmur2"
+hash = "1976364676"
+
+[update]
+[update.curseforge]
+file-id = 3067101
+project-id = 394468
+release-channel = "beta"

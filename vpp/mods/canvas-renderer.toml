@@ -4,8 +4,8 @@ side = "client"
 
 [option]
 optional = true
-description = "Use Canvas Renderer, a shaders mod which optimizes the client side of Minecraft a little bit."
-default = true
+description = "Use Canvas Renderer by grondag, a shaders mod which optimizes the client side of Minecraft a little bit. Incompatible with Sodium by JellySquid."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3051/844/canvas-mc116-1.0.933.jar"

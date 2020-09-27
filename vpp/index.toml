@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/canvas-renderer.toml"
-hash = "7431361e70e68fe888e60f72e0724912f3d8fa4c0d185c4f69fb5641337c381d"
+hash = "d217bb6e22ee1c6c90b211bbd7417d5fd2cd64d32dae49c6ea00f6f5d630e633"
 metafile = true
 
 [[files]]
@@ -775,6 +775,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
 hash = "0cbca22e4e4fe81f52f6b9606af29ffa47170ca5481b93701f504d9263a92f88"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "2aa0817c78b9c202aaccdfdc753d5549d13cd8b73762f1d6f19596271acdcdfe"
 metafile = true
 
 [[files]]
