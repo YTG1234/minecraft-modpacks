@@ -1,19 +1,19 @@
 name = "WI Zoom"
-filename = "WI-Zoom-1.2-MC1.16.2.jar"
+filename = "WI-Zoom-1.2-MC1.16.3.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3053/947/WI-Zoom-1.2-MC1.16.3.jar"
+hash-format = "murmur2"
+hash = "4177766209"
+
+[update]
+[update.curseforge]
+file-id = 3053947
+project-id = 349630
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Makes you able to zoom like in Badlion, Lunar and Wurst clients."
 default = true
-
-[download]
-url = "https://edge.forgecdn.net/files/3029/607/WI-Zoom-1.2-MC1.16.2.jar"
-hash-format = "murmur2"
-hash = "1076373763"
-
-[update]
-[update.curseforge]
-file-id = 3029607
-project-id = 349630
-release-channel = "beta"

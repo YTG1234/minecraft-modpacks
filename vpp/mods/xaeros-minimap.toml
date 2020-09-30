@@ -7,8 +7,3 @@ url = "https://edge.forgecdn.net/files/3063/315/Xaeros_Minimap_20.23.0_Fabric_1.
 hash-format = "murmur2"
 hash = "4013010180"
 
-# [update]
-# [update.curseforge]
-# file-id = 3063315
-# project-id = 263420
-# release-channel = "beta"

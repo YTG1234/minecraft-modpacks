@@ -1,19 +1,18 @@
 name = "Colormatic"
-filename = "colormatic-2.2.6+mc.1.16.2.jar"
+filename = "colormatic-2.2.7+mc.1.16.3.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3068/824/colormatic-2.2.7+mc.1.16.3.jar"
+hash-format = "murmur2"
+hash = "2510450075"
+
+[update]
+[update.curseforge]
+file-id = 3068824
+project-id = 325092
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Use colormatic, a mod which adds support for the Optifine custom-color resource packs."
-default = false
-
-[download]
-url = "https://edge.forgecdn.net/files/3046/17/colormatic-2.2.6+mc.1.16.2.jar"
-hash-format = "murmur2"
-hash = "3261421611"
-
-[update]
-[update.curseforge]
-file-id = 3046017
-project-id = 325092
-release-channel = "beta"

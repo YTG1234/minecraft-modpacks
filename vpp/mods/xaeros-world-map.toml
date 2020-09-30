@@ -7,8 +7,3 @@ url = "https://edge.forgecdn.net/files/3063/330/XaerosWorldMap_1.11.0_Fabric_1.1
 hash-format = "murmur2"
 hash = "3752429820"
 
-[update]
-[update.curseforge]
-file-id = 3063330
-project-id = 317780
-release-channel = "beta"

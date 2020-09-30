@@ -1,14 +1,14 @@
 name = "Colytra (Fabric)"
-filename = "colytra-fabric-1.1.0-1.16.2.jar"
+filename = "colytra-fabric-1.2.0-1.16.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3034/700/colytra-fabric-1.1.0-1.16.2.jar"
+url = "https://edge.forgecdn.net/files/3067/382/colytra-fabric-1.2.0-1.16.3.jar"
 hash-format = "murmur2"
-hash = "3050010031"
+hash = "1837077533"
 
 [update]
 [update.curseforge]
-file-id = 3034700
+file-id = 3067382
 project-id = 398089
 release-channel = "beta"

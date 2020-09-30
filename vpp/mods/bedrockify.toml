@@ -1,15 +1,15 @@
 name = "BedrockIfy"
-filename = "bedrockify-0.1.3-1.16.2+.jar"
+filename = "bedrockify-0.1.4-1.16.2+.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3054/779/bedrockify-0.1.3-1.16.2+.jar"
+url = "https://edge.forgecdn.net/files/3068/663/bedrockify-0.1.4-1.16.2+.jar"
 hash-format = "murmur2"
-hash = "491754416"
+hash = "4118844108"
 
 [update]
 [update.curseforge]
-file-id = 3054779
+file-id = 3068663
 project-id = 403858
 release-channel = "beta"
 

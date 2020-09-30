@@ -1,0 +1,14 @@
+name = "Project Inception"
+filename = "projectInception-1.3.1-linux-fix.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3068/534/projectInception-1.3.1-linux-fix.jar"
+hash-format = "murmur2"
+hash = "2839068666"
+
+[update]
+[update.curseforge]
+file-id = 3068534
+project-id = 403798
+release-channel = "beta"

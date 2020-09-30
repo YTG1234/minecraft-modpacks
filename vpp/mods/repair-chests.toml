@@ -1,14 +1,14 @@
 name = "Repair Chests"
-filename = "RepairChests-1.16.2-1.4.jar"
+filename = "RepairChests-1.16.3-1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3052/690/RepairChests-1.16.2-1.4.jar"
+url = "https://edge.forgecdn.net/files/3063/797/RepairChests-1.16.3-1.5.jar"
 hash-format = "murmur2"
-hash = "4187718204"
+hash = "470996336"
 
 [update]
 [update.curseforge]
-file-id = 3052690
+file-id = 3063797
 project-id = 401644
 release-channel = "beta"
