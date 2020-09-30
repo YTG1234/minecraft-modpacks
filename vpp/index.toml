@@ -358,11 +358,6 @@ hash = "38f8ae8a001b6c2db889c6d4ca89dde4a859e60071d2cb0a4da1f3ac9775cf1e"
 metafile = true
 
 [[files]]
-file = "mods/bedrockify.toml"
-hash = "d129893359afb758a8b3db43141649d78f45fff1e8f85b19ab268a26e706205b"
-metafile = true
-
-[[files]]
 file = "mods/better-mod-button.toml"
 hash = "169ac86d5991de8f8580a3b5bf01bf999e5d7e1d83cedc9157c0f24b4f798a8d"
 metafile = true
