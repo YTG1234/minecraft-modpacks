@@ -583,6 +583,11 @@ hash = "17436c44465a7d645dd8d963b5802e5cc7308a4b59f5fd7056581b9ec57c477c"
 metafile = true
 
 [[files]]
+file = "mods/improved-stations.toml"
+hash = "07ac50827f79f963da74e9caf60c0431f00255b96f315804a444b347e5f851d5"
+metafile = true
+
+[[files]]
 file = "mods/infinity-fix.toml"
 hash = "6db8f727fc1c61413ca22c848e91a5f03e831a8779c91620c2758f7936f80057"
 metafile = true
